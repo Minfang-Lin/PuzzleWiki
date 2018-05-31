@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://wiki.sudokufans.org.cn/"/>
-  <updated>2018-05-29T13:43:53.868Z</updated>
+  <updated>2018-05-31T13:21:16.648Z</updated>
   <id>http://wiki.sudokufans.org.cn/</id>
   
   <author>
@@ -20,12 +20,12 @@
     <link href="http://wiki.sudokufans.org.cn/PuzzleGP2018R4/"/>
     <id>http://wiki.sudokufans.org.cn/PuzzleGP2018R4/</id>
     <published>2018-05-27T13:25:00.000Z</published>
-    <updated>2018-05-29T13:43:53.868Z</updated>
+    <updated>2018-05-31T13:21:16.648Z</updated>
     
     <content type="html"><![CDATA[<h2 id="一、赛事说明"><a href="#一、赛事说明" class="headerlink" title="一、赛事说明"></a>一、赛事说明</h2><p>WPF Sudoku/Puzzle Grand Prix是由世界谜题联合会举办的线上赛事。从每年1月起，每半个月以数独赛和谜题赛交替的形式进行，每项赛事各进行八轮，八轮成绩总排名靠前的将在每年的世锦赛上进行现场决赛。本次进行的是谜题赛的第四轮。</p>
 <ul>
 <li>参赛地址：<a href="http://www.gp.worldpuzzle.org/" rel="external nofollow noopener noreferrer" target="_blank">http://gp.worldpuzzle.org/</a></li>
-<li>比赛时间：2018年6月1日 至 6月4日</li>
+<li>比赛时间：2018年6月1日18:00 至 6月4日 （北京时间）</li>
 </ul>
 <h2 id="二、题型介绍"><a href="#二、题型介绍" class="headerlink" title="二、题型介绍"></a>二、题型介绍</h2><h3 id="1-Minesweeper-Pills-作者：Pavel-Kadlecik-22分"><a href="#1-Minesweeper-Pills-作者：Pavel-Kadlecik-22分" class="headerlink" title="1. Minesweeper (Pills) [作者：Pavel Kadlečík] (22分)"></a>1. Minesweeper (Pills) [作者：Pavel Kadlečík] (22分)</h3><ul>
 <li>规则：在没有提示数的格子内放入一些“雷”。提示数表示其上下、左右、对角线相邻格中共有几颗雷（注意这里不是相邻格中有几格有雷）。每颗雷占据横向或纵向相邻的两格。雷与雷两两之间不能重叠放置。</li>
@@ -111,14 +111,46 @@
 <ul>
 <li>答案提交方式：写出校对行的每一格属于回路之外还是之内，用“O”表示回路内，用“X”表示回路外。例题中答案为<strong>XXOOX,OXOXX</strong>。</li>
 </ul>
+<h3 id="13-Slitherlink-Hexagonal-作者：Jan-Novotny-53分"><a href="#13-Slitherlink-Hexagonal-作者：Jan-Novotny-53分" class="headerlink" title="13. Slitherlink (Hexagonal) [作者：Jan Novotný] (53分)"></a>13. Slitherlink (Hexagonal) [作者：Jan Novotný] (53分)</h3><ul>
+<li>规则：沿着虚线将点与点相连，使之成为一个回路，且只能有一个回路。六边形中间的数字代表其周围<br>六条边中有几条属于回路。<br><em>题目中的灰色横线只是用于帮助你分辨校对行的。</em></li>
+</ul>
+<p><img src="/images/grandprix/2018PR4-13.png" alt="Slitherlink (Hexagonal)，作者：Jan Novotný"></p>
+<ul>
+<li>答案提交方式：写出校对行的每一格属于回路之外还是之内，用“O”表示回路内，用“X”表示回路外。例题中答案为<strong>OOX,OXOXO</strong>。</li>
+</ul>
+<h3 id="14-Tetromino-Division-作者：Jan-Novotny-5分"><a href="#14-Tetromino-Division-作者：Jan-Novotny-5分" class="headerlink" title="14. Tetromino Division [作者：Jan Novotný] (5分)"></a>14. Tetromino Division [作者：Jan Novotný] (5分)</h3><ul>
+<li>规则：将盘面分割称为一些四格拼版，每一格都属于某一块四格拼版。盘面上某些格已经给出代表其所在拼版的字母，每个拼版内恰好有一个提示字母。所有相同形状拼版上（不包括旋转和翻转的）的字母必须相同，所有不同形状的拼版上的字母不同。需要用到的拼版所代表字母题中已给出。</li>
+</ul>
+<p><img src="/images/grandprix/2018PR4-14.png" alt="Tetromino Division，作者：Jan Novotný"></p>
+<ul>
+<li>答案提交方式：写出校对行每一格拼版所对应字母<strong>ILSSLI,TTTTOO</strong>。</li>
+</ul>
 <h3 id="15-Coral-作者：Jan-Novotny-17分"><a href="#15-Coral-作者：Jan-Novotny-17分" class="headerlink" title="15. Coral [作者：Jan Novotný] (17分)"></a>15. Coral [作者：Jan Novotný] (17分)</h3><ul>
-<li>规则：将盘面中某些空格涂黑形成一片上下左右相连不间断的珊瑚，周围的提示数表示几组连续涂黑的占格数，例如提示134表示该行/列为一组占1格，一组连续3格，一组连续4格，每组之间至少有一个空格隔开，提示数无顺序，即134的实际排列顺序可能是134也可能是143等。每个2×2的四小方格不能同时涂黑，珊瑚本身也不可对角方向相接。</li>
+<li>规则：将盘面中某些空格涂黑形成一片上下左右相连不间断的珊瑚，周围的提示数表示几组连续涂黑的占格数，例如提示134表示该行/列为一组占1格，一组连续3格，一组连续4格，每组之间至少有一个空格隔开，提示数无顺序，即134的实际排列顺序可能是134也可能是143等。每个2×2的四小方格不能同时涂黑，珊瑚本身也不可对角方向相接。所有不属于珊瑚的格必须横向或纵向（通过其他非珊瑚格）到达盘面边缘。</li>
 </ul>
 <p><img src="/images/grandprix/2018PR4-15.png" alt="Coral，作者：Jan Novotný"></p>
 <ul>
 <li>答案提交方式：写出校对行的涂黑情况，用“O”表示未涂黑格，用“X”表示涂黑格。例题中答案为<strong>OOOXO,OXOOX</strong>。</li>
 </ul>
-<p>未完，更新中…</p>
+<h3 id="16-Coral-Overlapping-作者：Jan-Novotny-16-points"><a href="#16-Coral-Overlapping-作者：Jan-Novotny-16-points" class="headerlink" title="16. Coral (Overlapping) [作者：Jan Novotný] (16 points)"></a>16. Coral (Overlapping) [作者：Jan Novotný] (16 points)</h3><ul>
+<li>规则：在盘面的空格内放上O或X，使得所有标记O的格纵横相连，所有标记X的格也纵横相连成不间断的区域。所有非O的格子必须横向或纵向（通过其他非O格子）可到达盘面边缘。所有非X的格子必须横向或纵向（通过其他非X格子）可到达盘面边缘。每个2×2的四小方格不能同为O或X。有些特殊格同时有O和X两种标记，所有特殊格均已给出。在盘面左侧的提示数给出的是所对应行内X标记的情况，每个数字代表每组标记X格的占格数，提示无顺序。在盘面上方的提示数给出的是所对应列内O标记的情况，每个数字代表每组标记O格的占格数，提示无顺序。没有标注的行或列需自行推理。</li>
+</ul>
+<p><img src="/images/grandprix/2018PR4-16.png" alt="Coral(Overlapping)，作者：Jan Novotný"></p>
+<ul>
+<li>答案提交方式：写出校对行的标记情况，用“O”表示标记为O，用“X”表示标记为X，用“2”表示同时出现O和X。例题中答案为<strong>OOOXO,OXOO2</strong>。</li>
+</ul>
+<h3 id="17-Doppelblock-Diagonals-作者：Jan-Novotny-11分"><a href="#17-Doppelblock-Diagonals-作者：Jan-Novotny-11分" class="headerlink" title="17. Doppelblock (Diagonals) [作者：Jan Novotný] (11分)"></a>17. Doppelblock (Diagonals) [作者：Jan Novotný] (11分)</h3><ul>
+<li>规则：在盘面中填入方块或1到X之间的数字，使得每行、列、两条大对角线出现两个方块和1到X各一次。（X的大小为每行的格子数减2）。周围的提示数表示其对应的行、列或对角线中，两个涂黑方块格之间数字之和。</li>
+</ul>
+<p><img src="/images/grandprix/2018PR4-17.png" alt="Doppelblock (Diagonals) ，作者：Jan Novotný"></p>
+<ul>
+<li>答案提交方式：依次写出校对行的内容，用“X”表示涂黑格，如果格内数字大于10，则只填其个位数。如用“0”表示10。填写答案时注意不要把提示数一并写进去。例题中答案为<strong>32XX1,1X23X</strong>。</li>
+</ul>
+<h3 id="18-Doppelblock-Set-Diagonals-作者：Jan-Novotny-84分"><a href="#18-Doppelblock-Set-Diagonals-作者：Jan-Novotny-84分" class="headerlink" title="18. Doppelblock (Set, Diagonals) [作者：Jan Novotný] (84分)"></a>18. Doppelblock (Set, Diagonals) [作者：Jan Novotný] (84分)</h3><p>*规则：在盘面中填入方块或给出的数字集合中的数字，使得每行、列、两条大对角线出现两个方块和每个集合中的数字各一次。周围的提示数表示其对应的行、列或对角线中，两个涂黑方块格之间数字之和。</p>
+<p><img src="/images/grandprix/2018PR4-18.png" alt="Doppelblock (Set, Diagonals) ，作者：Jan Novotný"></p>
+<ul>
+<li>答案提交方式：依次写出校对行的内容，用“X”表示涂黑格，如果格内数字大于10，则只填其个位数。如用“0”表示10。填写答案时注意不要把提示数一并写进去。例题中答案为<strong>32XX2,2X32X</strong>。</li>
+</ul>
 ]]></content>
     
     <summary type="html">
@@ -219,48 +251,6 @@
   </entry>
   
   <entry>
-    <title>Cut Blocks 板块分割</title>
-    <link href="http://wiki.sudokufans.org.cn/CutBlocks/"/>
-    <id>http://wiki.sudokufans.org.cn/CutBlocks/</id>
-    <published>2017-11-04T08:09:00.000Z</published>
-    <updated>2017-11-04T08:13:50.084Z</updated>
-    
-    <content type="html"><![CDATA[<p>Cut Blocks（板块分割, 日本語: カットブロック）是由日本谜题作家稻葉直貴于2001年发表的谜题。</p>
-<h2 id="规则"><a href="#规则" class="headerlink" title="规则"></a>规则</h2><p><img src="/images/cutblocks.png" alt="Cut Blocks 小型例题，作者：稲葉直貴"></p>
-<p>盘面当中有一些被粗线划分的拼版，将每个现有拼版分割成为两部分，使得所有相邻拼板的占格数各不相同。</p>
-<ol>
-<li>パズル面の全てのブロックに仕切りを入れて二つのブロックに分ける。</li>
-<li>全て分け終えたとき、同じ面積のブロックが辺で接しないようにする。</li>
-</ol>
-<p>Split all given regions along the grid lines in exactly two sub-regions. Two sub-regions of the same size must not be orthogonally adjacent.</p>
-<p><img src="/images/cutblocks_e.png" alt="Cut Blocks 例题，作者：稲葉直貴"><br><img src="/images/cutblocks_a.png" alt="Cut Blocks 例题解答"></p>
-<h2 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h2><blockquote>
-<ul>
-<li><a href="http://inabapuzzle.com/honkaku/cut.html" rel="external nofollow noopener noreferrer" target="_blank">稲葉のパズル研究室</a></li>
-<li><a href="https://www.janko.at/Raetsel/Naoki/CutBlocks.htm" rel="external nofollow noopener noreferrer" target="_blank">Janko.at</a></li>
-</ul>
-</blockquote>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;Cut Blocks（板块分割, 日本語: カットブロック）是由日本谜题作家稻葉直貴于2001年发表的谜题。&lt;/p&gt;
-&lt;h2 id=&quot;规则&quot;&gt;&lt;a href=&quot;#规则&quot; class=&quot;headerlink&quot; title=&quot;规则&quot;&gt;&lt;/a&gt;规则&lt;/h2&gt;&lt;p&gt;&lt;img src
-    
-    </summary>
-    
-      <category term="Puzzle" scheme="http://wiki.sudokufans.org.cn/categories/Puzzle/"/>
-    
-      <category term="划区类谜题" scheme="http://wiki.sudokufans.org.cn/categories/Puzzle/%E5%88%92%E5%8C%BA%E7%B1%BB%E8%B0%9C%E9%A2%98/"/>
-    
-    
-      <category term="Japanese Puzzles" scheme="http://wiki.sudokufans.org.cn/tags/Japanese-Puzzles/"/>
-    
-      <category term="稲葉直貴" scheme="http://wiki.sudokufans.org.cn/tags/%E7%A8%B2%E8%91%89%E7%9B%B4%E8%B2%B4/"/>
-    
-  </entry>
-  
-  <entry>
     <title>Clock Place 放置时钟</title>
     <link href="http://wiki.sudokufans.org.cn/ClockPlace/"/>
     <id>http://wiki.sudokufans.org.cn/ClockPlace/</id>
@@ -294,6 +284,48 @@
       <category term="Puzzle" scheme="http://wiki.sudokufans.org.cn/categories/Puzzle/"/>
     
       <category term="放置类谜题" scheme="http://wiki.sudokufans.org.cn/categories/Puzzle/%E6%94%BE%E7%BD%AE%E7%B1%BB%E8%B0%9C%E9%A2%98/"/>
+    
+    
+      <category term="Japanese Puzzles" scheme="http://wiki.sudokufans.org.cn/tags/Japanese-Puzzles/"/>
+    
+      <category term="稲葉直貴" scheme="http://wiki.sudokufans.org.cn/tags/%E7%A8%B2%E8%91%89%E7%9B%B4%E8%B2%B4/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Cut Blocks 板块分割</title>
+    <link href="http://wiki.sudokufans.org.cn/CutBlocks/"/>
+    <id>http://wiki.sudokufans.org.cn/CutBlocks/</id>
+    <published>2017-11-04T08:09:00.000Z</published>
+    <updated>2017-11-04T08:13:50.084Z</updated>
+    
+    <content type="html"><![CDATA[<p>Cut Blocks（板块分割, 日本語: カットブロック）是由日本谜题作家稻葉直貴于2001年发表的谜题。</p>
+<h2 id="规则"><a href="#规则" class="headerlink" title="规则"></a>规则</h2><p><img src="/images/cutblocks.png" alt="Cut Blocks 小型例题，作者：稲葉直貴"></p>
+<p>盘面当中有一些被粗线划分的拼版，将每个现有拼版分割成为两部分，使得所有相邻拼板的占格数各不相同。</p>
+<ol>
+<li>パズル面の全てのブロックに仕切りを入れて二つのブロックに分ける。</li>
+<li>全て分け終えたとき、同じ面積のブロックが辺で接しないようにする。</li>
+</ol>
+<p>Split all given regions along the grid lines in exactly two sub-regions. Two sub-regions of the same size must not be orthogonally adjacent.</p>
+<p><img src="/images/cutblocks_e.png" alt="Cut Blocks 例题，作者：稲葉直貴"><br><img src="/images/cutblocks_a.png" alt="Cut Blocks 例题解答"></p>
+<h2 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h2><blockquote>
+<ul>
+<li><a href="http://inabapuzzle.com/honkaku/cut.html" rel="external nofollow noopener noreferrer" target="_blank">稲葉のパズル研究室</a></li>
+<li><a href="https://www.janko.at/Raetsel/Naoki/CutBlocks.htm" rel="external nofollow noopener noreferrer" target="_blank">Janko.at</a></li>
+</ul>
+</blockquote>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Cut Blocks（板块分割, 日本語: カットブロック）是由日本谜题作家稻葉直貴于2001年发表的谜题。&lt;/p&gt;
+&lt;h2 id=&quot;规则&quot;&gt;&lt;a href=&quot;#规则&quot; class=&quot;headerlink&quot; title=&quot;规则&quot;&gt;&lt;/a&gt;规则&lt;/h2&gt;&lt;p&gt;&lt;img src
+    
+    </summary>
+    
+      <category term="Puzzle" scheme="http://wiki.sudokufans.org.cn/categories/Puzzle/"/>
+    
+      <category term="划区类谜题" scheme="http://wiki.sudokufans.org.cn/categories/Puzzle/%E5%88%92%E5%8C%BA%E7%B1%BB%E8%B0%9C%E9%A2%98/"/>
     
     
       <category term="Japanese Puzzles" scheme="http://wiki.sudokufans.org.cn/tags/Japanese-Puzzles/"/>
