@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://wiki.sudokufans.org.cn/"/>
-  <updated>2018-08-20T14:00:34.003Z</updated>
+  <updated>2018-08-23T11:48:23.376Z</updated>
   <id>http://wiki.sudokufans.org.cn/</id>
   
   <author>
@@ -16,37 +16,239 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Separation</title>
-    <link href="http://wiki.sudokufans.org.cn/Separation/"/>
-    <id>http://wiki.sudokufans.org.cn/Separation/</id>
-    <published>2018-08-20T13:38:00.000Z</published>
-    <updated>2018-08-20T14:00:34.003Z</updated>
+    <title>Daisho 大小分割</title>
+    <link href="http://wiki.sudokufans.org.cn/Daisho/"/>
+    <id>http://wiki.sudokufans.org.cn/Daisho/</id>
+    <published>2018-08-23T11:45:00.000Z</published>
+    <updated>2018-08-23T11:48:23.376Z</updated>
     
-    <content type="html"><![CDATA[<p>Separation（同字同形, 日本語:  エッジパターン）是由日本谜题作家稻葉直貴于2001年发表的谜题。</p>
-<h2 id="规则"><a href="#规则" class="headerlink" title="规则"></a>规则</h2><p><img src="/images/separation.png" alt="Separation 小型例题，作者：稲葉直貴"></p>
-<p>在部分格填上A、B、C，使得每行、每列出现A、B、C各一次，两个相同字母之间不可通过空格相连，必定有其它字母分隔。</p>
+    <content type="html"><![CDATA[<p>Daisho（大小分割, 日本語:  大小分割）是由日本谜题作家稻葉直貴于2001年发表的谜题。</p>
+<h2 id="规则"><a href="#规则" class="headerlink" title="规则"></a>规则</h2><p><img src="/images/daisho.png" alt="Daisho 小型例题，作者：稲葉直貴"></p>
+<p>将盘面分割成为宽度为1格的长方形（含1×1的正方形）。不等号表示两侧区域占格数的大小关系。相同大小的长方形边不能相邻。</p>
 <ol>
-<li>縦横全ての列にＡＢＣを一つずつ配置する。 </li>
-<li>ある文字からスタートして、壁と別種の文字を通らずに同種のアルファベットに行けるルートが存在してはいけない。</li>
+<li>パズル面の全てのマスを一辺が１の長方形に分割する。 </li>
+<li>不等号は、その両側のブロックの大小関係を表す。 </li>
+<li>同じ大きさのブロックは辺で接しない。</li>
 </ol>
-<p><img src="/images/separation_e.png" alt="Separation 例题，作者：稲葉直貴"><br><img src="/images/separation_a.png" alt="Separation 例题解答"></p>
+<p><img src="/images/daisho_e.png" alt="Daisho 例题，作者：稲葉直貴"><br><img src="/images/daisho_a.png" alt="Daisho 例题解答"></p>
 <h2 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h2><blockquote>
 <ul>
-<li><a href="http://inabapuzzle.com/honkaku/sepa.html" rel="external nofollow noopener noreferrer" target="_blank">稲葉のパズル研究室</a></li>
+<li><a href="http://inabapuzzle.com/honkaku/daisho.html" rel="external nofollow noopener noreferrer" target="_blank">稲葉のパズル研究室</a></li>
 </ul>
 </blockquote>
 ]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;Separation（同字同形, 日本語:  エッジパターン）是由日本谜题作家稻葉直貴于2001年发表的谜题。&lt;/p&gt;
-&lt;h2 id=&quot;规则&quot;&gt;&lt;a href=&quot;#规则&quot; class=&quot;headerlink&quot; title=&quot;规则&quot;&gt;&lt;/a&gt;规则&lt;/h2&gt;&lt;p&gt;&lt;img sr
+      &lt;p&gt;Daisho（大小分割, 日本語:  大小分割）是由日本谜题作家稻葉直貴于2001年发表的谜题。&lt;/p&gt;
+&lt;h2 id=&quot;规则&quot;&gt;&lt;a href=&quot;#规则&quot; class=&quot;headerlink&quot; title=&quot;规则&quot;&gt;&lt;/a&gt;规则&lt;/h2&gt;&lt;p&gt;&lt;img src=&quot;/ima
     
     </summary>
     
       <category term="Puzzle" scheme="http://wiki.sudokufans.org.cn/categories/Puzzle/"/>
     
-      <category term="回路类谜题" scheme="http://wiki.sudokufans.org.cn/categories/Puzzle/%E5%9B%9E%E8%B7%AF%E7%B1%BB%E8%B0%9C%E9%A2%98/"/>
+      <category term="区域与关系类谜题" scheme="http://wiki.sudokufans.org.cn/categories/Puzzle/%E5%8C%BA%E5%9F%9F%E4%B8%8E%E5%85%B3%E7%B3%BB%E7%B1%BB%E8%B0%9C%E9%A2%98/"/>
+    
+    
+      <category term="Japanese Puzzles" scheme="http://wiki.sudokufans.org.cn/tags/Japanese-Puzzles/"/>
+    
+      <category term="稲葉直貴" scheme="http://wiki.sudokufans.org.cn/tags/%E7%A8%B2%E8%91%89%E7%9B%B4%E8%B2%B4/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Renban 区域连续</title>
+    <link href="http://wiki.sudokufans.org.cn/Renban/"/>
+    <id>http://wiki.sudokufans.org.cn/Renban/</id>
+    <published>2018-08-23T11:40:00.000Z</published>
+    <updated>2018-08-23T11:43:18.418Z</updated>
+    
+    <content type="html"><![CDATA[<p>Renban（区域连续, 日本語:  連番プレース）是由日本谜题作家稻葉直貴于2001年发表的谜题。</p>
+<h2 id="规则"><a href="#规则" class="headerlink" title="规则"></a>规则</h2><p><img src="/images/renban.png" alt="Renban 小型例题，作者：稲葉直貴"></p>
+<p>在盘面内填入1~N（N为盘面总列数），使得每行、列出现1~N各一次。每个粗线区域内的数字不能重复，且为一组连续数字。</p>
+<ol>
+<li>縦横の全ての列に１からパズル面の一辺の長さまでの数を一つずつ入れる。 </li>
+<li>ブロック内には同じ数は入らない、かつ、ブロック内の数字は連続していなければならない。</li>
+</ol>
+<p><img src="/images/renban_e.png" alt="Renban 例题，作者：稲葉直貴"><br><img src="/images/renban_a.png" alt="Renban 例题解答"></p>
+<h2 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h2><blockquote>
+<ul>
+<li><a href="http://inabapuzzle.com/honkaku/renban.html" rel="external nofollow noopener noreferrer" target="_blank">稲葉のパズル研究室</a></li>
+</ul>
+</blockquote>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Renban（区域连续, 日本語:  連番プレース）是由日本谜题作家稻葉直貴于2001年发表的谜题。&lt;/p&gt;
+&lt;h2 id=&quot;规则&quot;&gt;&lt;a href=&quot;#规则&quot; class=&quot;headerlink&quot; title=&quot;规则&quot;&gt;&lt;/a&gt;规则&lt;/h2&gt;&lt;p&gt;&lt;img src=&quot;/i
+    
+    </summary>
+    
+      <category term="Puzzle" scheme="http://wiki.sudokufans.org.cn/categories/Puzzle/"/>
+    
+      <category term="区域与数字类谜题" scheme="http://wiki.sudokufans.org.cn/categories/Puzzle/%E5%8C%BA%E5%9F%9F%E4%B8%8E%E6%95%B0%E5%AD%97%E7%B1%BB%E8%B0%9C%E9%A2%98/"/>
+    
+    
+      <category term="Japanese Puzzles" scheme="http://wiki.sudokufans.org.cn/tags/Japanese-Puzzles/"/>
+    
+      <category term="稲葉直貴" scheme="http://wiki.sudokufans.org.cn/tags/%E7%A8%B2%E8%91%89%E7%9B%B4%E8%B2%B4/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Breakdown 分解数图</title>
+    <link href="http://wiki.sudokufans.org.cn/Breakdown/"/>
+    <id>http://wiki.sudokufans.org.cn/Breakdown/</id>
+    <published>2018-08-23T03:29:00.000Z</published>
+    <updated>2018-08-23T03:38:56.963Z</updated>
+    
+    <content type="html"><![CDATA[<p>Breakdown（分解数图, 日本語:  ブレイクダウン）是由日本谜题作家稻葉直貴于2001年发表的谜题。</p>
+<h2 id="规则"><a href="#规则" class="headerlink" title="规则"></a>规则</h2><p><img src="/images/breakdown.png" alt="Breakdown 小型例题，作者：稲葉直貴"></p>
+<p>上方及左侧数字表示该行、该列有多少格被涂黑。右侧及下方数字表示该行、该列涂黑格有几段。</p>
+<ol>
+<li>上と左の数字は、その列のぬりつぶすマスの数を表す。 </li>
+<li>右と下の数字は、その列のぬりつぶすマスがいくつの固まりに分かれるかを表す。</li>
+</ol>
+<p><img src="/images/breakdown_e.png" alt="Breakdown 例题，作者：稲葉直貴"><br><img src="/images/breakdown_a.png" alt="Breakdown 例题解答"></p>
+<h2 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h2><blockquote>
+<ul>
+<li><a href="http://inabapuzzle.com/honkaku/breik.html" rel="external nofollow noopener noreferrer" target="_blank">稲葉のパズル研究室</a></li>
+</ul>
+</blockquote>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Breakdown（分解数图, 日本語:  ブレイクダウン）是由日本谜题作家稻葉直貴于2001年发表的谜题。&lt;/p&gt;
+&lt;h2 id=&quot;规则&quot;&gt;&lt;a href=&quot;#规则&quot; class=&quot;headerlink&quot; title=&quot;规则&quot;&gt;&lt;/a&gt;规则&lt;/h2&gt;&lt;p&gt;&lt;img src
+    
+    </summary>
+    
+      <category term="Puzzle" scheme="http://wiki.sudokufans.org.cn/categories/Puzzle/"/>
+    
+      <category term="涂黑类谜题" scheme="http://wiki.sudokufans.org.cn/categories/Puzzle/%E6%B6%82%E9%BB%91%E7%B1%BB%E8%B0%9C%E9%A2%98/"/>
+    
+    
+      <category term="Japanese Puzzles" scheme="http://wiki.sudokufans.org.cn/tags/Japanese-Puzzles/"/>
+    
+      <category term="稲葉直貴" scheme="http://wiki.sudokufans.org.cn/tags/%E7%A8%B2%E8%91%89%E7%9B%B4%E8%B2%B4/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Cross Loop 木棒回路</title>
+    <link href="http://wiki.sudokufans.org.cn/CrossLoop/"/>
+    <id>http://wiki.sudokufans.org.cn/CrossLoop/</id>
+    <published>2018-08-23T03:22:00.000Z</published>
+    <updated>2018-08-23T03:27:31.668Z</updated>
+    
+    <content type="html"><![CDATA[<p>Cross Loop（木棒回路, 日本語:  クロスループ）是由日本谜题作家稻葉直貴于2001年发表的谜题。</p>
+<h2 id="规则"><a href="#规则" class="headerlink" title="规则"></a>规则</h2><p><img src="/images/crossloop.png" alt="Cross Loop 小型例题，作者：稲葉直貴"></p>
+<p>在每一行、每一列放置一根木棒。木棒两端两两形成十字交叉。所有木棒恰好形成一个回路。</p>
+<ol>
+<li>全ての横列に横棒を一本ずつ、全ての縦列に縦棒を一本ずつ入れる。 </li>
+<li>棒の両端は他の棒と交差しているようにする。 </li>
+<li>全体で枝分かれのない一つのループができるようにする。</li>
+</ol>
+<p><img src="/images/crossloop_e.png" alt="Cross Loop 例题，作者：稲葉直貴"><br><img src="/images/crossloop_a.png" alt="Cross Loop 例题解答"></p>
+<h2 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h2><blockquote>
+<ul>
+<li><a href="http://inabapuzzle.com/honkaku/cross.html" rel="external nofollow noopener noreferrer" target="_blank">稲葉のパズル研究室</a></li>
+</ul>
+</blockquote>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Cross Loop（木棒回路, 日本語:  クロスループ）是由日本谜题作家稻葉直貴于2001年发表的谜题。&lt;/p&gt;
+&lt;h2 id=&quot;规则&quot;&gt;&lt;a href=&quot;#规则&quot; class=&quot;headerlink&quot; title=&quot;规则&quot;&gt;&lt;/a&gt;规则&lt;/h2&gt;&lt;p&gt;&lt;img src
+    
+    </summary>
+    
+      <category term="Puzzle" scheme="http://wiki.sudokufans.org.cn/categories/Puzzle/"/>
+    
+      <category term="放置类谜题" scheme="http://wiki.sudokufans.org.cn/categories/Puzzle/%E6%94%BE%E7%BD%AE%E7%B1%BB%E8%B0%9C%E9%A2%98/"/>
+    
+    
+      <category term="Japanese Puzzles" scheme="http://wiki.sudokufans.org.cn/tags/Japanese-Puzzles/"/>
+    
+      <category term="稲葉直貴" scheme="http://wiki.sudokufans.org.cn/tags/%E7%A8%B2%E8%91%89%E7%9B%B4%E8%B2%B4/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>In and Out 出入次数</title>
+    <link href="http://wiki.sudokufans.org.cn/InAndOut/"/>
+    <id>http://wiki.sudokufans.org.cn/InAndOut/</id>
+    <published>2018-08-21T11:22:00.000Z</published>
+    <updated>2018-08-21T12:41:23.629Z</updated>
+    
+    <content type="html"><![CDATA[<p>In and Out（出入次数, 日本語:  イン・アウト）是由日本谜题作家稻葉直貴于2001年发表的谜题。</p>
+<h2 id="规则"><a href="#规则" class="headerlink" title="规则"></a>规则</h2><p><img src="/images/inout.png" alt="In and Out 小型例题，作者：稲葉直貴"></p>
+<p>从S到G画一条线，线经过所有格子。数字表示线经过这个粗线区域的次数（进出该区域算经过一次）。</p>
+<ol>
+<li>S（スタート）からG（ゴール）まで全てのマスを一度ずつ通る線を引く。 </li>
+<li>ブロック内の数字は、線がそのブロックを”何回”通過したかを表す。（入ってから出るまでを一回とする。）</li>
+</ol>
+<p><img src="/images/inout_e.png" alt="In and Out 例题，作者：稲葉直貴"><br><img src="/images/inout_a.png" alt="In and Out 例题解答"></p>
+<h2 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h2><blockquote>
+<ul>
+<li><a href="http://inabapuzzle.com/honkaku/inout.html" rel="external nofollow noopener noreferrer" target="_blank">稲葉のパズル研究室</a></li>
+</ul>
+</blockquote>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;In and Out（出入次数, 日本語:  イン・アウト）是由日本谜题作家稻葉直貴于2001年发表的谜题。&lt;/p&gt;
+&lt;h2 id=&quot;规则&quot;&gt;&lt;a href=&quot;#规则&quot; class=&quot;headerlink&quot; title=&quot;规则&quot;&gt;&lt;/a&gt;规则&lt;/h2&gt;&lt;p&gt;&lt;img src
+    
+    </summary>
+    
+      <category term="Puzzle" scheme="http://wiki.sudokufans.org.cn/categories/Puzzle/"/>
+    
+      <category term="连线类谜题" scheme="http://wiki.sudokufans.org.cn/categories/Puzzle/%E8%BF%9E%E7%BA%BF%E7%B1%BB%E8%B0%9C%E9%A2%98/"/>
+    
+    
+      <category term="Japanese Puzzles" scheme="http://wiki.sudokufans.org.cn/tags/Japanese-Puzzles/"/>
+    
+      <category term="稲葉直貴" scheme="http://wiki.sudokufans.org.cn/tags/%E7%A8%B2%E8%91%89%E7%9B%B4%E8%B2%B4/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Two-tone Division 双色分割</title>
+    <link href="http://wiki.sudokufans.org.cn/Two-toneDivision/"/>
+    <id>http://wiki.sudokufans.org.cn/Two-toneDivision/</id>
+    <published>2018-08-21T11:22:00.000Z</published>
+    <updated>2018-08-21T11:54:09.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>Two-tone Division（双色分割, 日本語:  ツートン分割）是由日本谜题作家稻葉直貴于2001年发表的谜题。</p>
+<h2 id="规则"><a href="#规则" class="headerlink" title="规则"></a>规则</h2><p><img src="/images/twotonedivision.png" alt="Two-tone Division 小型例题，作者：稲葉直貴"></p>
+<p>沿虚线将盘面划分成一些四格拼版，盘面上每一格都属于某一个四格拼版。每个拼版内包含白格和黑格，且每个拼版内的白格或黑格是连续的。</p>
+<ol>
+<li>パズル面を壁で仕切り、四マスのブロックにする。このときブロック内に余計な壁があってはならない。 </li>
+<li>ブロック内には必ず白と黒の二色が入るようにし、白い部分と黒い部分はそれぞれ内部で一つにつながっていなければならない。</li>
+</ol>
+<p><img src="/images/twotonedivision_e.png" alt="Two-tone Division 例题，作者：稲葉直貴"><br><img src="/images/twotonedivision_a.png" alt="Two-tone Division 例题解答"></p>
+<h2 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h2><blockquote>
+<ul>
+<li><a href="http://inabapuzzle.com/honkaku/two.html" rel="external nofollow noopener noreferrer" target="_blank">稲葉のパズル研究室</a></li>
+</ul>
+</blockquote>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Two-tone Division（双色分割, 日本語:  ツートン分割）是由日本谜题作家稻葉直貴于2001年发表的谜题。&lt;/p&gt;
+&lt;h2 id=&quot;规则&quot;&gt;&lt;a href=&quot;#规则&quot; class=&quot;headerlink&quot; title=&quot;规则&quot;&gt;&lt;/a&gt;规则&lt;/h2&gt;&lt;p&gt;&lt;
+    
+    </summary>
+    
+      <category term="Puzzle" scheme="http://wiki.sudokufans.org.cn/categories/Puzzle/"/>
+    
+      <category term="划区类谜题" scheme="http://wiki.sudokufans.org.cn/categories/Puzzle/%E5%88%92%E5%8C%BA%E7%B1%BB%E8%B0%9C%E9%A2%98/"/>
     
     
       <category term="Japanese Puzzles" scheme="http://wiki.sudokufans.org.cn/tags/Japanese-Puzzles/"/>
@@ -81,6 +283,46 @@
     
       &lt;p&gt;Edge Pattern（同字同形, 日本語:  エッジパターン）是由日本谜题作家稻葉直貴于2001年发表的谜题。&lt;/p&gt;
 &lt;h2 id=&quot;规则&quot;&gt;&lt;a href=&quot;#规则&quot; class=&quot;headerlink&quot; title=&quot;规则&quot;&gt;&lt;/a&gt;规则&lt;/h2&gt;&lt;p&gt;&lt;img 
+    
+    </summary>
+    
+      <category term="Puzzle" scheme="http://wiki.sudokufans.org.cn/categories/Puzzle/"/>
+    
+      <category term="回路类谜题" scheme="http://wiki.sudokufans.org.cn/categories/Puzzle/%E5%9B%9E%E8%B7%AF%E7%B1%BB%E8%B0%9C%E9%A2%98/"/>
+    
+    
+      <category term="Japanese Puzzles" scheme="http://wiki.sudokufans.org.cn/tags/Japanese-Puzzles/"/>
+    
+      <category term="稲葉直貴" scheme="http://wiki.sudokufans.org.cn/tags/%E7%A8%B2%E8%91%89%E7%9B%B4%E8%B2%B4/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Separation 同字分离</title>
+    <link href="http://wiki.sudokufans.org.cn/Separation/"/>
+    <id>http://wiki.sudokufans.org.cn/Separation/</id>
+    <published>2018-08-20T13:38:00.000Z</published>
+    <updated>2018-08-21T11:16:37.112Z</updated>
+    
+    <content type="html"><![CDATA[<p>Separation（同字分离, 日本語:  セパレーション）是由日本谜题作家稻葉直貴于2001年发表的谜题。</p>
+<h2 id="规则"><a href="#规则" class="headerlink" title="规则"></a>规则</h2><p><img src="/images/separation.png" alt="Separation 小型例题，作者：稲葉直貴"></p>
+<p>在部分格填上A、B、C，使得每行、每列出现A、B、C各一次，两个相同字母之间不可通过空格相连，必定有其它字母分隔。</p>
+<ol>
+<li>縦横全ての列にＡＢＣを一つずつ配置する。 </li>
+<li>ある文字からスタートして、壁と別種の文字を通らずに同種のアルファベットに行けるルートが存在してはいけない。</li>
+</ol>
+<p><img src="/images/separation_e.png" alt="Separation 例题，作者：稲葉直貴"><br><img src="/images/separation_a.png" alt="Separation 例题解答"></p>
+<h2 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h2><blockquote>
+<ul>
+<li><a href="http://inabapuzzle.com/honkaku/sepa.html" rel="external nofollow noopener noreferrer" target="_blank">稲葉のパズル研究室</a></li>
+</ul>
+</blockquote>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Separation（同字分离, 日本語:  セパレーション）是由日本谜题作家稻葉直貴于2001年发表的谜题。&lt;/p&gt;
+&lt;h2 id=&quot;规则&quot;&gt;&lt;a href=&quot;#规则&quot; class=&quot;headerlink&quot; title=&quot;规则&quot;&gt;&lt;/a&gt;规则&lt;/h2&gt;&lt;p&gt;&lt;img sr
     
     </summary>
     
@@ -683,48 +925,6 @@
   </entry>
   
   <entry>
-    <title>Cut Blocks 板块分割</title>
-    <link href="http://wiki.sudokufans.org.cn/CutBlocks/"/>
-    <id>http://wiki.sudokufans.org.cn/CutBlocks/</id>
-    <published>2017-11-04T08:09:00.000Z</published>
-    <updated>2017-11-04T08:13:50.084Z</updated>
-    
-    <content type="html"><![CDATA[<p>Cut Blocks（板块分割, 日本語: カットブロック）是由日本谜题作家稻葉直貴于2001年发表的谜题。</p>
-<h2 id="规则"><a href="#规则" class="headerlink" title="规则"></a>规则</h2><p><img src="/images/cutblocks.png" alt="Cut Blocks 小型例题，作者：稲葉直貴"></p>
-<p>盘面当中有一些被粗线划分的拼版，将每个现有拼版分割成为两部分，使得所有相邻拼板的占格数各不相同。</p>
-<ol>
-<li>パズル面の全てのブロックに仕切りを入れて二つのブロックに分ける。</li>
-<li>全て分け終えたとき、同じ面積のブロックが辺で接しないようにする。</li>
-</ol>
-<p>Split all given regions along the grid lines in exactly two sub-regions. Two sub-regions of the same size must not be orthogonally adjacent.</p>
-<p><img src="/images/cutblocks_e.png" alt="Cut Blocks 例题，作者：稲葉直貴"><br><img src="/images/cutblocks_a.png" alt="Cut Blocks 例题解答"></p>
-<h2 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h2><blockquote>
-<ul>
-<li><a href="http://inabapuzzle.com/honkaku/cut.html" rel="external nofollow noopener noreferrer" target="_blank">稲葉のパズル研究室</a></li>
-<li><a href="https://www.janko.at/Raetsel/Naoki/CutBlocks.htm" rel="external nofollow noopener noreferrer" target="_blank">Janko.at</a></li>
-</ul>
-</blockquote>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;Cut Blocks（板块分割, 日本語: カットブロック）是由日本谜题作家稻葉直貴于2001年发表的谜题。&lt;/p&gt;
-&lt;h2 id=&quot;规则&quot;&gt;&lt;a href=&quot;#规则&quot; class=&quot;headerlink&quot; title=&quot;规则&quot;&gt;&lt;/a&gt;规则&lt;/h2&gt;&lt;p&gt;&lt;img src
-    
-    </summary>
-    
-      <category term="Puzzle" scheme="http://wiki.sudokufans.org.cn/categories/Puzzle/"/>
-    
-      <category term="划区类谜题" scheme="http://wiki.sudokufans.org.cn/categories/Puzzle/%E5%88%92%E5%8C%BA%E7%B1%BB%E8%B0%9C%E9%A2%98/"/>
-    
-    
-      <category term="Japanese Puzzles" scheme="http://wiki.sudokufans.org.cn/tags/Japanese-Puzzles/"/>
-    
-      <category term="稲葉直貴" scheme="http://wiki.sudokufans.org.cn/tags/%E7%A8%B2%E8%91%89%E7%9B%B4%E8%B2%B4/"/>
-    
-  </entry>
-  
-  <entry>
     <title>Clock Place 放置时钟</title>
     <link href="http://wiki.sudokufans.org.cn/ClockPlace/"/>
     <id>http://wiki.sudokufans.org.cn/ClockPlace/</id>
@@ -767,239 +967,33 @@
   </entry>
   
   <entry>
-    <title>Parallel Circuit 并联电路</title>
-    <link href="http://wiki.sudokufans.org.cn/ParallelCircuit/"/>
-    <id>http://wiki.sudokufans.org.cn/ParallelCircuit/</id>
-    <published>2017-11-01T13:18:00.000Z</published>
-    <updated>2017-11-01T13:32:05.548Z</updated>
+    <title>Cut Blocks 板块分割</title>
+    <link href="http://wiki.sudokufans.org.cn/CutBlocks/"/>
+    <id>http://wiki.sudokufans.org.cn/CutBlocks/</id>
+    <published>2017-11-04T08:09:00.000Z</published>
+    <updated>2017-11-04T08:13:50.084Z</updated>
     
-    <content type="html"><![CDATA[<p>Parallel Circuit（并联电路, 日本語: パラレルサーキット）是由日本谜题作家稻葉直貴于2001年发表的谜题。</p>
-<h2 id="规则"><a href="#规则" class="headerlink" title="规则"></a>规则</h2><p><img src="/images/parallelcircuit.png" alt="Parallel Circuit 小型例题，作者：稲葉直貴"></p>
-<p>用线连接所有的格子形成电路网，其中黑点表示并联分叉点，处于并联的两条线路中一侧为一个数字，另一侧为灯泡，灯泡总个数即与其并联线路上的提示数。非并联线路上没有数字或灯泡。</p>
+    <content type="html"><![CDATA[<p>Cut Blocks（板块分割, 日本語: カットブロック）是由日本谜题作家稻葉直貴于2001年发表的谜题。</p>
+<h2 id="规则"><a href="#规则" class="headerlink" title="规则"></a>规则</h2><p><img src="/images/cutblocks.png" alt="Cut Blocks 小型例题，作者：稲葉直貴"></p>
+<p>盘面当中有一些被粗线划分的拼版，将每个现有拼版分割成为两部分，使得所有相邻拼板的占格数各不相同。</p>
 <ol>
-<li>本線と並列部分が交互になるように全てのマスを通る回路を作る。</li>
-<li>並列部分の一方には数字が、一方にはその数だけの豆電球が接続されている。</li>
-<li>黒丸は分岐点を表す。</li>
+<li>パズル面の全てのブロックに仕切りを入れて二つのブロックに分ける。</li>
+<li>全て分け終えたとき、同じ面積のブロックが辺で接しないようにする。</li>
 </ol>
-<p><img src="/images/parallelcircuit_e.png" alt="Parallel Circuit 例题，作者：稲葉直貴"><br><img src="/images/parallelcircuit_a.png" alt="Parallel Circuit 例题解答"></p>
+<p>Split all given regions along the grid lines in exactly two sub-regions. Two sub-regions of the same size must not be orthogonally adjacent.</p>
+<p><img src="/images/cutblocks_e.png" alt="Cut Blocks 例题，作者：稲葉直貴"><br><img src="/images/cutblocks_a.png" alt="Cut Blocks 例题解答"></p>
 <h2 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h2><blockquote>
 <ul>
-<li><a href="http://inabapuzzle.com/honkaku/para.html" rel="external nofollow noopener noreferrer" target="_blank">稲葉のパズル研究室</a></li>
+<li><a href="http://inabapuzzle.com/honkaku/cut.html" rel="external nofollow noopener noreferrer" target="_blank">稲葉のパズル研究室</a></li>
+<li><a href="https://www.janko.at/Raetsel/Naoki/CutBlocks.htm" rel="external nofollow noopener noreferrer" target="_blank">Janko.at</a></li>
 </ul>
 </blockquote>
 ]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;Parallel Circuit（并联电路, 日本語: パラレルサーキット）是由日本谜题作家稻葉直貴于2001年发表的谜题。&lt;/p&gt;
-&lt;h2 id=&quot;规则&quot;&gt;&lt;a href=&quot;#规则&quot; class=&quot;headerlink&quot; title=&quot;规则&quot;&gt;&lt;/a&gt;规则&lt;/h2&gt;&lt;p&gt;
-    
-    </summary>
-    
-      <category term="Puzzle" scheme="http://wiki.sudokufans.org.cn/categories/Puzzle/"/>
-    
-      <category term="连线类谜题" scheme="http://wiki.sudokufans.org.cn/categories/Puzzle/%E8%BF%9E%E7%BA%BF%E7%B1%BB%E8%B0%9C%E9%A2%98/"/>
-    
-    
-      <category term="Japanese Puzzles" scheme="http://wiki.sudokufans.org.cn/tags/Japanese-Puzzles/"/>
-    
-      <category term="稲葉直貴" scheme="http://wiki.sudokufans.org.cn/tags/%E7%A8%B2%E8%91%89%E7%9B%B4%E8%B2%B4/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Parking Place 停车场规划</title>
-    <link href="http://wiki.sudokufans.org.cn/ParkingPlace/"/>
-    <id>http://wiki.sudokufans.org.cn/ParkingPlace/</id>
-    <published>2017-11-01T12:50:00.000Z</published>
-    <updated>2017-11-01T13:31:55.684Z</updated>
-    
-    <content type="html"><![CDATA[<p>Parking Place（停车场规划, 日本語: パーキングプレース）是由日本谜题作家稻葉直貴于2001年发表的谜题。</p>
-<h2 id="规则"><a href="#规则" class="headerlink" title="规则"></a>规则</h2><p><img src="/images/parkingplace.png" alt="Parking Place 小型例题，作者：稲葉直貴"></p>
-<p>在盘面中放置一些小车，使得每一辆车（包括已知位置的小车以及玩家放置的小车）都能直接开到出口，已知小车上的数字表示其到出口至少要经过几格。在符合上述条件的情况下摆放仅可能多的小车。</p>
-<ol>
-<li>駐車場に見立てたパズル面に、全ての車が出口に行けるように何台かの車を配置する。</li>
-<li>ヒントとして入っている数字は、そこから出口までの最短距離を表す。</li>
-<li>1、2を満たした上でなるべく多くの車を配置する。</li>
-</ol>
-<p><img src="/images/parkingplace_e.png" alt="Parking Place 例题，作者：稲葉直貴"><br><img src="/images/parkingplace_a.png" alt="Parking Place 例题解答"></p>
-<h2 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h2><blockquote>
-<ul>
-<li><a href="http://inabapuzzle.com/honkaku/park.html" rel="external nofollow noopener noreferrer" target="_blank">稲葉のパズル研究室</a></li>
-</ul>
-</blockquote>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;Parking Place（停车场规划, 日本語: パーキングプレース）是由日本谜题作家稻葉直貴于2001年发表的谜题。&lt;/p&gt;
-&lt;h2 id=&quot;规则&quot;&gt;&lt;a href=&quot;#规则&quot; class=&quot;headerlink&quot; title=&quot;规则&quot;&gt;&lt;/a&gt;规则&lt;/h2&gt;&lt;p&gt;&lt;i
-    
-    </summary>
-    
-      <category term="Puzzle" scheme="http://wiki.sudokufans.org.cn/categories/Puzzle/"/>
-    
-      <category term="放置类谜题" scheme="http://wiki.sudokufans.org.cn/categories/Puzzle/%E6%94%BE%E7%BD%AE%E7%B1%BB%E8%B0%9C%E9%A2%98/"/>
-    
-    
-      <category term="Japanese Puzzles" scheme="http://wiki.sudokufans.org.cn/tags/Japanese-Puzzles/"/>
-    
-      <category term="稲葉直貴" scheme="http://wiki.sudokufans.org.cn/tags/%E7%A8%B2%E8%91%89%E7%9B%B4%E8%B2%B4/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Sum Box 盒子之和</title>
-    <link href="http://wiki.sudokufans.org.cn/SumBox/"/>
-    <id>http://wiki.sudokufans.org.cn/SumBox/</id>
-    <published>2017-10-29T12:19:00.000Z</published>
-    <updated>2017-11-01T13:20:06.977Z</updated>
-    
-    <content type="html"><![CDATA[<p>Sum Box（盒子之和, 日本語: サムボックス）是由日本谜题作家稻葉直貴于2001年发表的谜题。</p>
-<h2 id="规则"><a href="#规则" class="headerlink" title="规则"></a>规则</h2><p><img src="/images/sumbox.png" alt="Sum Box 小型例题，作者：稲葉直貴"></p>
-<p>在每个方形小格内填上1-9中的一个或两个数字，每个小格左上角的数字为格内数字之和。处于同行或同列每组被黑格隔断的连续方格内的数字不能重复。</p>
-<ol>
-<li>四角の中に、一つまたは二つの数字を入れて、その和が左上の数字と等しくなるようにする。</li>
-<li>黒マスをはさまず縦横一列に連続しているマスには同じ数字は入らない。</li>
-</ol>
-<p><img src="/images/sumbox_e.png" alt="Sum Box 例题，作者：稲葉直貴"><br><img src="/images/sumbox_a.png" alt="Sum Box 例题解答"></p>
-<h2 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h2><blockquote>
-<ul>
-<li><a href="http://inabapuzzle.com/honkaku/sum.html" rel="external nofollow noopener noreferrer" target="_blank">稲葉のパズル研究室</a></li>
-</ul>
-</blockquote>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;Sum Box（盒子之和, 日本語: サムボックス）是由日本谜题作家稻葉直貴于2001年发表的谜题。&lt;/p&gt;
-&lt;h2 id=&quot;规则&quot;&gt;&lt;a href=&quot;#规则&quot; class=&quot;headerlink&quot; title=&quot;规则&quot;&gt;&lt;/a&gt;规则&lt;/h2&gt;&lt;p&gt;&lt;img src=&quot;/i
-    
-    </summary>
-    
-      <category term="Puzzle" scheme="http://wiki.sudokufans.org.cn/categories/Puzzle/"/>
-    
-      <category term="数字计算类谜题" scheme="http://wiki.sudokufans.org.cn/categories/Puzzle/%E6%95%B0%E5%AD%97%E8%AE%A1%E7%AE%97%E7%B1%BB%E8%B0%9C%E9%A2%98/"/>
-    
-    
-      <category term="Japanese Puzzles" scheme="http://wiki.sudokufans.org.cn/tags/Japanese-Puzzles/"/>
-    
-      <category term="稲葉直貴" scheme="http://wiki.sudokufans.org.cn/tags/%E7%A8%B2%E8%91%89%E7%9B%B4%E8%B2%B4/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Pile Up 搭积木</title>
-    <link href="http://wiki.sudokufans.org.cn/PileUp/"/>
-    <id>http://wiki.sudokufans.org.cn/PileUp/</id>
-    <published>2017-10-29T11:23:00.000Z</published>
-    <updated>2017-10-29T12:18:50.264Z</updated>
-    
-    <content type="html"><![CDATA[<p>Pile Up（搭积木, 日本語: パイルアップ）是由日本谜题作家稻葉直貴于2001年发表的谜题。</p>
-<h2 id="规则"><a href="#规则" class="headerlink" title="规则"></a>规则</h2><p><img src="/images/pileup.png" alt="Pile Up小型例题，作者：稲葉直貴"></p>
-<p>在部分空格中填上数字1-N（例题中为1-3），使得每行、每列出现1-N各一次，且每个数字的下方均为更大数字或隔板（粗线标示）。</p>
-<ol>
-<li>縦横全ての列に、指定された範囲の数字のブロックを各々一つずつ配置する。</li>
-<li>ブロックを配置するには、その下に”床”、または”自分より大きな数字のブロック”がなければならない。</li>
-</ol>
-<p><img src="/images/pileup_e.png" alt="Pile Up，作者：稲葉直貴"><br><img src="/images/pileup_a.png" alt="Pile Up例题解答"></p>
-<h2 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h2><blockquote>
-<ul>
-<li><a href="http://inabapuzzle.com/honkaku/pile.html" rel="external nofollow noopener noreferrer" target="_blank">稲葉のパズル研究室</a></li>
-</ul>
-</blockquote>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;Pile Up（搭积木, 日本語: パイルアップ）是由日本谜题作家稻葉直貴于2001年发表的谜题。&lt;/p&gt;
-&lt;h2 id=&quot;规则&quot;&gt;&lt;a href=&quot;#规则&quot; class=&quot;headerlink&quot; title=&quot;规则&quot;&gt;&lt;/a&gt;规则&lt;/h2&gt;&lt;p&gt;&lt;img src=&quot;/im
-    
-    </summary>
-    
-      <category term="Puzzle" scheme="http://wiki.sudokufans.org.cn/categories/Puzzle/"/>
-    
-      <category term="数字类谜题" scheme="http://wiki.sudokufans.org.cn/categories/Puzzle/%E6%95%B0%E5%AD%97%E7%B1%BB%E8%B0%9C%E9%A2%98/"/>
-    
-    
-      <category term="Japanese Puzzles" scheme="http://wiki.sudokufans.org.cn/tags/Japanese-Puzzles/"/>
-    
-      <category term="稲葉直貴" scheme="http://wiki.sudokufans.org.cn/tags/%E7%A8%B2%E8%91%89%E7%9B%B4%E8%B2%B4/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Can&#39;t be Divided 禁止分割</title>
-    <link href="http://wiki.sudokufans.org.cn/CantbeDivided/"/>
-    <id>http://wiki.sudokufans.org.cn/CantbeDivided/</id>
-    <published>2017-10-29T08:52:00.000Z</published>
-    <updated>2017-11-01T13:20:17.449Z</updated>
-    
-    <content type="html"><![CDATA[<p>Can’t be Divided（禁止分割）是由日本谜题作家稻葉直貴于2001年发表的谜题。</p>
-<h2 id="规则"><a href="#规则" class="headerlink" title="规则"></a>规则</h2><p><img src="/images/cantbedivided.png" alt="Can&#39;t be Divided 小型例题，作者：稲葉直貴"></p>
-<p>将盘面分割成为一些四格拼板，每个拼板中恰好有一个星星。周围的拼板图案表示该行或该列不能出现的四格拼板样式。<br>注意旋转相同的拼版才被认为是相同的拼版，翻转相同的拼版被视为不同的拼版。</p>
-<ol>
-<li>パズル面を壁で仕切り、四マスのブロックにする。このときブロック内に一つずつ星が入るようにする。</li>
-<li>周りの図形はその列に、その並び方のブロック（の一部）が入らないことを表す。</li>
-</ol>
-<ol>
-<li>Divide the board into tetrominos (regions of size 4). Each tetromino contains exactly one star. </li>
-<li>The tetromino listed outside the region cannot appear in the corresponding row or column.<br><small>*感谢BobbyLiu翻译英文规则。</small></li>
-</ol>
-<p><img src="/images/cantbedivided_e.png" alt="Can&#39;t be Divided 例题，作者：稲葉直貴"><br><img src="/images/cantbedivided_a.png" alt="Can&#39;t be Divided 例题解答"></p>
-<h2 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h2><blockquote>
-<ul>
-<li><a href="http://inabapuzzle.com/honkaku/kinshi.html" rel="external nofollow noopener noreferrer" target="_blank">稲葉のパズル研究室</a></li>
-</ul>
-</blockquote>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;Can’t be Divided（禁止分割）是由日本谜题作家稻葉直貴于2001年发表的谜题。&lt;/p&gt;
-&lt;h2 id=&quot;规则&quot;&gt;&lt;a href=&quot;#规则&quot; class=&quot;headerlink&quot; title=&quot;规则&quot;&gt;&lt;/a&gt;规则&lt;/h2&gt;&lt;p&gt;&lt;img src=&quot;/image
-    
-    </summary>
-    
-      <category term="Puzzle" scheme="http://wiki.sudokufans.org.cn/categories/Puzzle/"/>
-    
-      <category term="划区类谜题" scheme="http://wiki.sudokufans.org.cn/categories/Puzzle/%E5%88%92%E5%8C%BA%E7%B1%BB%E8%B0%9C%E9%A2%98/"/>
-    
-    
-      <category term="Japanese Puzzles" scheme="http://wiki.sudokufans.org.cn/tags/Japanese-Puzzles/"/>
-    
-      <category term="稲葉直貴" scheme="http://wiki.sudokufans.org.cn/tags/%E7%A8%B2%E8%91%89%E7%9B%B4%E8%B2%B4/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Percolation 彩球渗透</title>
-    <link href="http://wiki.sudokufans.org.cn/Percolation/"/>
-    <id>http://wiki.sudokufans.org.cn/Percolation/</id>
-    <published>2017-10-28T15:25:00.000Z</published>
-    <updated>2017-10-28T15:31:24.879Z</updated>
-    
-    <content type="html"><![CDATA[<p>Percolation（中文名: 彩球渗透, 日本語: パーコレーション）是由日本谜题作家稻葉直貴于2001年发表的谜题。</p>
-<h2 id="规则"><a href="#规则" class="headerlink" title="规则"></a>规则</h2><p><img src="/images/percolation.png" alt="Percolation，作者：稲葉直貴"></p>
-<p>将盘面上的彩球涂上红色或蓝色，相同颜色的彩球纵横相连形成一片区域。每片区域内有且仅有一个提示数，提示数表示这片区域所占格数。具有相同颜色的区域不能纵横相连。</p>
-<ol>
-<li>パズル面の全てのマスをを赤、青のいずれかで塗り分ける。</li>
-<li>パズル面の数字は、そのマスを含む同色マスが縦横でつながっている塊の大きさを表す。<br>また、一つの塊の中に複数の数字が含まれることはない。</li>
-</ol>
-<p>Color all white cells of the diagram either red or blue. Cells of the same color define orthogonally continuous areas. Each of these areas must contain exactly one cell with a number. This number indicates how many cells constitute this area. Areas of the same color must not be orthogonally adjacent.</p>
-<p><img src="/images/percolation_e.png" alt="Percolation，作者：稲葉直貴"><br><img src="/images/percolation_a.png" alt="Percolation例题解答"></p>
-<h2 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h2><blockquote>
-<ul>
-<li><a href="http://inabapuzzle.com/honkaku/parco.html" rel="external nofollow noopener noreferrer" target="_blank">稲葉のパズル研究室</a></li>
-<li><a href="http://www.janko.at/Raetsel/Naoki/ParKoreshon.htm" rel="external nofollow noopener noreferrer" target="_blank">Janko.at</a></li>
-</ul>
-</blockquote>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;Percolation（中文名: 彩球渗透, 日本語: パーコレーション）是由日本谜题作家稻葉直貴于2001年发表的谜题。&lt;/p&gt;
-&lt;h2 id=&quot;规则&quot;&gt;&lt;a href=&quot;#规则&quot; class=&quot;headerlink&quot; title=&quot;规则&quot;&gt;&lt;/a&gt;规则&lt;/h2&gt;&lt;p&gt;&lt;
+      &lt;p&gt;Cut Blocks（板块分割, 日本語: カットブロック）是由日本谜题作家稻葉直貴于2001年发表的谜题。&lt;/p&gt;
+&lt;h2 id=&quot;规则&quot;&gt;&lt;a href=&quot;#规则&quot; class=&quot;headerlink&quot; title=&quot;规则&quot;&gt;&lt;/a&gt;规则&lt;/h2&gt;&lt;p&gt;&lt;img src
     
     </summary>
     
