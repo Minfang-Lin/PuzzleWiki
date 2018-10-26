@@ -2,9 +2,65 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://wiki.sudokufans.org.cn/NearNumber/</loc>
+    
+    <lastmod>2018-10-26T08:56:10.318Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://wiki.sudokufans.org.cn/Number%20Ring/</loc>
+    
+    <lastmod>2018-10-26T08:42:17.171Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://wiki.sudokufans.org.cn/NumberRing/</loc>
+    
+    <lastmod>2018-10-26T08:33:48.728Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://wiki.sudokufans.org.cn/PlusArrow/</loc>
+    
+    <lastmod>2018-10-26T08:18:08.312Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://wiki.sudokufans.org.cn/BoarderLand/</loc>
+    
+    <lastmod>2018-10-26T07:46:22.207Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://wiki.sudokufans.org.cn/CorePlace/</loc>
+    
+    <lastmod>2018-10-26T07:31:31.874Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://wiki.sudokufans.org.cn/MaxLength/</loc>
+    
+    <lastmod>2018-09-23T01:53:55.703Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://wiki.sudokufans.org.cn/StripeLoop/</loc>
+    
+    <lastmod>2018-09-23T01:46:28.230Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://wiki.sudokufans.org.cn/Daisho/</loc>
     
-    <lastmod>2018-08-23T11:48:23.376Z</lastmod>
+    <lastmod>2018-09-23T01:46:09.729Z</lastmod>
     
   </url>
   
@@ -569,13 +625,6 @@
   </url>
   
   <url>
-    <loc>http://wiki.sudokufans.org.cn/about/index.html</loc>
-    
-    <lastmod>2017-04-16T11:16:28.001Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>http://wiki.sudokufans.org.cn/Masyu/</loc>
     
     <lastmod>2017-04-16T11:16:28.001Z</lastmod>
@@ -583,14 +632,21 @@
   </url>
   
   <url>
-    <loc>http://wiki.sudokufans.org.cn/Pentaroll/</loc>
+    <loc>http://wiki.sudokufans.org.cn/about/index.html</loc>
+    
+    <lastmod>2017-04-16T11:16:28.001Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://wiki.sudokufans.org.cn/Hitori/</loc>
     
     <lastmod>2017-04-16T11:16:28.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://wiki.sudokufans.org.cn/Hitori/</loc>
+    <loc>http://wiki.sudokufans.org.cn/Pentaroll/</loc>
     
     <lastmod>2017-04-16T11:16:28.000Z</lastmod>
     

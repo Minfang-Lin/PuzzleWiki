@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://wiki.sudokufans.org.cn/"/>
-  <updated>2018-08-23T11:48:23.376Z</updated>
+  <updated>2018-10-26T08:56:10.318Z</updated>
   <id>http://wiki.sudokufans.org.cn/</id>
   
   <author>
@@ -16,11 +16,344 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Near Number 差一数对</title>
+    <link href="http://wiki.sudokufans.org.cn/NearNumber/"/>
+    <id>http://wiki.sudokufans.org.cn/NearNumber/</id>
+    <published>2018-10-26T08:43:00.000Z</published>
+    <updated>2018-10-26T08:56:10.318Z</updated>
+    
+    <content type="html"><![CDATA[<p>Near Number（差一数对, 日本語:  ニア·ナンバー）是由日本谜题作家稻葉直貴于2001年发表的谜题。</p>
+<h2 id="规则"><a href="#规则" class="headerlink" title="规则"></a>规则</h2><p><img src="/images/nearnumber.png" alt="Near Number 小型例题，作者：稲葉直貴"></p>
+<p>在空格内填入1~N（N为盘面中一行的格子数），使得每行、每列出现1~N各一次。<br>外侧的提示数表示该行或该列中有几组差值为1的相邻数对。</p>
+<ol>
+<li>縦横の全ての列に１からパズル面の一辺の長さまでの数を一つずつ入れる。</li>
+<li>外側の数字はその列に”隣り合う数字が一つ違いの箇所”がいくつあるかを表す。</li>
+</ol>
+<p><img src="/images/nearnumber_e.png" alt="Near Number 例题，作者：稲葉直貴"></p>
+<p><img src="/images/nearnumber_a.png" alt="Near Number 例题解答"></p>
+<h2 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h2><blockquote>
+<ul>
+<li><a href="http://inabapuzzle.com/honkaku/near.html" rel="external nofollow noopener noreferrer" target="_blank">稲葉のパズル研究室</a></li>
+</ul>
+</blockquote>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Near Number（差一数对, 日本語:  ニア·ナンバー）是由日本谜题作家稻葉直貴于2001年发表的谜题。&lt;/p&gt;
+&lt;h2 id=&quot;规则&quot;&gt;&lt;a href=&quot;#规则&quot; class=&quot;headerlink&quot; title=&quot;规则&quot;&gt;&lt;/a&gt;规则&lt;/h2&gt;&lt;p&gt;&lt;img s
+    
+    </summary>
+    
+      <category term="Puzzle" scheme="http://wiki.sudokufans.org.cn/categories/Puzzle/"/>
+    
+      <category term="数字类谜题" scheme="http://wiki.sudokufans.org.cn/categories/Puzzle/%E6%95%B0%E5%AD%97%E7%B1%BB%E8%B0%9C%E9%A2%98/"/>
+    
+    
+      <category term="Japanese Puzzles" scheme="http://wiki.sudokufans.org.cn/tags/Japanese-Puzzles/"/>
+    
+      <category term="稲葉直貴" scheme="http://wiki.sudokufans.org.cn/tags/%E7%A8%B2%E8%91%89%E7%9B%B4%E8%B2%B4/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Number Ring 数字回路</title>
+    <link href="http://wiki.sudokufans.org.cn/Number%20Ring/"/>
+    <id>http://wiki.sudokufans.org.cn/Number Ring/</id>
+    <published>2018-10-26T08:32:00.000Z</published>
+    <updated>2018-10-26T08:42:17.171Z</updated>
+    
+    <content type="html"><![CDATA[<p>Number Ring（数字回路, 日本語:  ナンバーリング）是由日本谜题作家稻葉直貴于2001年发表的谜题。</p>
+<h2 id="规则"><a href="#规则" class="headerlink" title="规则"></a>规则</h2><p><img src="/images/numberring.png" alt="Number Ring 小型例题，作者：稲葉直貴"></p>
+<p>在盘面中选择一些空格填入数字1、2、3，使得填数字的格子纵横相连形成一条回路。回路不能碰到自己（不包括对角线方向）。<br>相同数字所形成的数块只能横向或者纵向放置。相同数字的数块不能相邻。</p>
+<ol>
+<li>パズル面に１２３の数字を入れて、縦横につながっている一つの環を作る。このとき、ループの部分どうしが辺で接してはならない。（点で接するのはＯＫ）</li>
+<li>数字はその数だけ縦横一直線に同じ数が並んだ固まりにしなければならない。</li>
+<li>同じ数字の固まりどうしは辺で接してはならない。</li>
+</ol>
+<p><img src="/images/numberring_e.png" alt="Number Ring 例题，作者：稲葉直貴"></p>
+<p><img src="/images/numberring_a.png" alt="Number Ring 例题解答"></p>
+<h2 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h2><blockquote>
+<ul>
+<li><a href="http://inabapuzzle.com/honkaku/ring.html" rel="external nofollow noopener noreferrer" target="_blank">稲葉のパズル研究室</a></li>
+</ul>
+</blockquote>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Number Ring（数字回路, 日本語:  ナンバーリング）是由日本谜题作家稻葉直貴于2001年发表的谜题。&lt;/p&gt;
+&lt;h2 id=&quot;规则&quot;&gt;&lt;a href=&quot;#规则&quot; class=&quot;headerlink&quot; title=&quot;规则&quot;&gt;&lt;/a&gt;规则&lt;/h2&gt;&lt;p&gt;&lt;img s
+    
+    </summary>
+    
+      <category term="Puzzle" scheme="http://wiki.sudokufans.org.cn/categories/Puzzle/"/>
+    
+      <category term="回路类谜题" scheme="http://wiki.sudokufans.org.cn/categories/Puzzle/%E5%9B%9E%E8%B7%AF%E7%B1%BB%E8%B0%9C%E9%A2%98/"/>
+    
+    
+      <category term="Japanese Puzzles" scheme="http://wiki.sudokufans.org.cn/tags/Japanese-Puzzles/"/>
+    
+      <category term="稲葉直貴" scheme="http://wiki.sudokufans.org.cn/tags/%E7%A8%B2%E8%91%89%E7%9B%B4%E8%B2%B4/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Number Ring 数字回路</title>
+    <link href="http://wiki.sudokufans.org.cn/NumberRing/"/>
+    <id>http://wiki.sudokufans.org.cn/NumberRing/</id>
+    <published>2018-10-26T08:32:00.000Z</published>
+    <updated>2018-10-26T08:33:48.728Z</updated>
+    
+    <content type="html"><![CDATA[<p>Number Ring（数字回路, 日本語:  ナンバーリング）是由日本谜题作家稻葉直貴于2001年发表的谜题。</p>
+<h2 id="规则"><a href="#规则" class="headerlink" title="规则"></a>规则</h2><p><img src="/images/numberring.png" alt="Number Ring 小型例题，作者：稲葉直貴"></p>
+<p>在每一个格子放置一个箭头，箭头指向上、下、左、右其中一个方向。<br>周围的提示数表示该行或者该列指向它的所有箭头上的数字之和。<br>相同方向的箭头不能上下或左右方向相邻。</p>
+<ol>
+<li>全てのマスに矢印を配置する。</li>
+<li>周囲の数字は、その方向を向いている矢印の入ったマスに書かれた数の和を表す。</li>
+<li>同じ向きの矢印は縦横で接しない。</li>
+</ol>
+<p><img src="/images/numberring_e.png" alt="Number Ring 例题，作者：稲葉直貴"></p>
+<p><img src="/images/numberring_a.png" alt="Number Ring 例题解答"></p>
+<h2 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h2><blockquote>
+<ul>
+<li><a href="http://inabapuzzle.com/honkaku/ring.html" rel="external nofollow noopener noreferrer" target="_blank">稲葉のパズル研究室</a></li>
+</ul>
+</blockquote>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Number Ring（数字回路, 日本語:  ナンバーリング）是由日本谜题作家稻葉直貴于2001年发表的谜题。&lt;/p&gt;
+&lt;h2 id=&quot;规则&quot;&gt;&lt;a href=&quot;#规则&quot; class=&quot;headerlink&quot; title=&quot;规则&quot;&gt;&lt;/a&gt;规则&lt;/h2&gt;&lt;p&gt;&lt;img s
+    
+    </summary>
+    
+      <category term="Puzzle" scheme="http://wiki.sudokufans.org.cn/categories/Puzzle/"/>
+    
+      <category term="回路类谜题" scheme="http://wiki.sudokufans.org.cn/categories/Puzzle/%E5%9B%9E%E8%B7%AF%E7%B1%BB%E8%B0%9C%E9%A2%98/"/>
+    
+    
+      <category term="Japanese Puzzles" scheme="http://wiki.sudokufans.org.cn/tags/Japanese-Puzzles/"/>
+    
+      <category term="稲葉直貴" scheme="http://wiki.sudokufans.org.cn/tags/%E7%A8%B2%E8%91%89%E7%9B%B4%E8%B2%B4/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Plus Arrow 箭头之和</title>
+    <link href="http://wiki.sudokufans.org.cn/PlusArrow/"/>
+    <id>http://wiki.sudokufans.org.cn/PlusArrow/</id>
+    <published>2018-10-26T07:50:00.000Z</published>
+    <updated>2018-10-26T08:18:08.312Z</updated>
+    
+    <content type="html"><![CDATA[<p>Plus Arrow（箭头之和, 日本語:  プラスアロー）是由日本谜题作家稻葉直貴于2001年发表的谜题。</p>
+<h2 id="规则"><a href="#规则" class="headerlink" title="规则"></a>规则</h2><p><img src="/images/plusarrow.png" alt="Plus Arrow 小型例题，作者：稲葉直貴"></p>
+<p>在每一个格子放置一个箭头，箭头指向上、下、左、右其中一个方向。<br>周围的提示数表示该行或者该列指向它的所有箭头上的数字之和。<br>相同方向的箭头不能上下或左右方向相邻。</p>
+<ol>
+<li>全てのマスに矢印を配置する。</li>
+<li>周囲の数字は、その方向を向いている矢印の入ったマスに書かれた数の和を表す。</li>
+<li>同じ向きの矢印は縦横で接しない。</li>
+</ol>
+<p><img src="/images/plusarrow_e.png" alt="Plus Arrow 例题，作者：稲葉直貴"></p>
+<p><img src="/images/plusarrow_a.png" alt="Plus Arrow 例题解答"></p>
+<h2 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h2><blockquote>
+<ul>
+<li><a href="http://inabapuzzle.com/honkaku/plus.html" rel="external nofollow noopener noreferrer" target="_blank">稲葉のパズル研究室</a></li>
+</ul>
+</blockquote>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Plus Arrow（箭头之和, 日本語:  プラスアロー）是由日本谜题作家稻葉直貴于2001年发表的谜题。&lt;/p&gt;
+&lt;h2 id=&quot;规则&quot;&gt;&lt;a href=&quot;#规则&quot; class=&quot;headerlink&quot; title=&quot;规则&quot;&gt;&lt;/a&gt;规则&lt;/h2&gt;&lt;p&gt;&lt;img src
+    
+    </summary>
+    
+      <category term="Puzzle" scheme="http://wiki.sudokufans.org.cn/categories/Puzzle/"/>
+    
+      <category term="放置类谜题" scheme="http://wiki.sudokufans.org.cn/categories/Puzzle/%E6%94%BE%E7%BD%AE%E7%B1%BB%E8%B0%9C%E9%A2%98/"/>
+    
+    
+      <category term="Japanese Puzzles" scheme="http://wiki.sudokufans.org.cn/tags/Japanese-Puzzles/"/>
+    
+      <category term="稲葉直貴" scheme="http://wiki.sudokufans.org.cn/tags/%E7%A8%B2%E8%91%89%E7%9B%B4%E8%B2%B4/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Boarder Land 屋宇领地</title>
+    <link href="http://wiki.sudokufans.org.cn/BoarderLand/"/>
+    <id>http://wiki.sudokufans.org.cn/BoarderLand/</id>
+    <published>2018-10-26T07:41:00.000Z</published>
+    <updated>2018-10-26T07:46:22.207Z</updated>
+    
+    <content type="html"><![CDATA[<p>Boarder Land（屋宇领地, 日本語:  ボーダーランド）是由日本谜题作家稻葉直貴于2001年发表的谜题。</p>
+<h2 id="规则"><a href="#规则" class="headerlink" title="规则"></a>规则</h2><p><img src="/images/boarderland.png" alt="Boarder Land 小型例题，作者：稲葉直貴"></p>
+<p>沿着虚线画一条线连接左上角和右下角的黑点，将盘面分割为若干个区域。<br>每个区域中恰好有且仅有一所房子。盘面中没有多余的作为区域分界线的线段。</p>
+<ol>
+<li>どの領域にも必ず一つずつ家が入るように、左上の黒丸から右下の黒丸まで一つながりの（最初から入っている境界を含まない）境界線をひく。</li>
+<li>領域内に余分な境界線があってはならない。</li>
+</ol>
+<p><img src="/images/boarderland_e.png" alt="Boarder Land 例题，作者：稲葉直貴"></p>
+<p><img src="/images/boarderland_a.png" alt="Boarder Land 例题解答"></p>
+<h2 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h2><blockquote>
+<ul>
+<li><a href="http://inabapuzzle.com/honkaku/land.html" rel="external nofollow noopener noreferrer" target="_blank">稲葉のパズル研究室</a></li>
+</ul>
+</blockquote>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Boarder Land（屋宇领地, 日本語:  ボーダーランド）是由日本谜题作家稻葉直貴于2001年发表的谜题。&lt;/p&gt;
+&lt;h2 id=&quot;规则&quot;&gt;&lt;a href=&quot;#规则&quot; class=&quot;headerlink&quot; title=&quot;规则&quot;&gt;&lt;/a&gt;规则&lt;/h2&gt;&lt;p&gt;&lt;img 
+    
+    </summary>
+    
+      <category term="Puzzle" scheme="http://wiki.sudokufans.org.cn/categories/Puzzle/"/>
+    
+      <category term="连线类谜题" scheme="http://wiki.sudokufans.org.cn/categories/Puzzle/%E8%BF%9E%E7%BA%BF%E7%B1%BB%E8%B0%9C%E9%A2%98/"/>
+    
+    
+      <category term="Japanese Puzzles" scheme="http://wiki.sudokufans.org.cn/tags/Japanese-Puzzles/"/>
+    
+      <category term="稲葉直貴" scheme="http://wiki.sudokufans.org.cn/tags/%E7%A8%B2%E8%91%89%E7%9B%B4%E8%B2%B4/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Core Place 放置彩球</title>
+    <link href="http://wiki.sudokufans.org.cn/CorePlace/"/>
+    <id>http://wiki.sudokufans.org.cn/CorePlace/</id>
+    <published>2018-10-26T07:26:00.000Z</published>
+    <updated>2018-10-26T07:31:31.874Z</updated>
+    
+    <content type="html"><![CDATA[<p>Core Place（放置彩球, 日本語:  コアプレース）是由日本谜题作家稻葉直貴于2001年发表的谜题。</p>
+<h2 id="规则"><a href="#规则" class="headerlink" title="规则"></a>规则</h2><p><img src="/images/coreplace.png" alt="Core Place 小型例题，作者：稲葉直貴"></p>
+<p>在每个粗线区域内选择一格放置一个彩球，彩球颜色从红、蓝、黄、绿四色中择一。<br>相同颜色的彩球不能上下或左右方向相邻。同一行或同一列中也不能有相同颜色的彩球。</p>
+<ol>
+<li>全てのブロック内に、赤、青、黄、緑のいずれかのコアを一つずつ配置する。</li>
+<li>同色のコアの入ったブロックは辺で接しない。</li>
+<li>同じ列に同色のコアは入らない。</li>
+</ol>
+<p><img src="/images/coreplace_e.png" alt="Core Place 例题，作者：稲葉直貴"></p>
+<p><img src="/images/coreplace_a.png" alt="Core Place 例题解答"></p>
+<h2 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h2><blockquote>
+<ul>
+<li><a href="http://inabapuzzle.com/honkaku/core.html" rel="external nofollow noopener noreferrer" target="_blank">稲葉のパズル研究室</a></li>
+</ul>
+</blockquote>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Core Place（放置彩球, 日本語:  コアプレース）是由日本谜题作家稻葉直貴于2001年发表的谜题。&lt;/p&gt;
+&lt;h2 id=&quot;规则&quot;&gt;&lt;a href=&quot;#规则&quot; class=&quot;headerlink&quot; title=&quot;规则&quot;&gt;&lt;/a&gt;规则&lt;/h2&gt;&lt;p&gt;&lt;img src
+    
+    </summary>
+    
+      <category term="Puzzle" scheme="http://wiki.sudokufans.org.cn/categories/Puzzle/"/>
+    
+      <category term="放置类谜题" scheme="http://wiki.sudokufans.org.cn/categories/Puzzle/%E6%94%BE%E7%BD%AE%E7%B1%BB%E8%B0%9C%E9%A2%98/"/>
+    
+    
+      <category term="Japanese Puzzles" scheme="http://wiki.sudokufans.org.cn/tags/Japanese-Puzzles/"/>
+    
+      <category term="稲葉直貴" scheme="http://wiki.sudokufans.org.cn/tags/%E7%A8%B2%E8%91%89%E7%9B%B4%E8%B2%B4/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Max Length 最长线段</title>
+    <link href="http://wiki.sudokufans.org.cn/MaxLength/"/>
+    <id>http://wiki.sudokufans.org.cn/MaxLength/</id>
+    <published>2018-09-23T01:47:00.000Z</published>
+    <updated>2018-09-23T01:53:55.703Z</updated>
+    
+    <content type="html"><![CDATA[<p>Max Length（最长线段, 日本語:  ＭＡＸレングス）是由日本谜题作家稻葉直貴于2001年发表的谜题。</p>
+<h2 id="规则"><a href="#规则" class="headerlink" title="规则"></a>规则</h2><p><img src="/images/maxlength.png" alt="Max Length 小型例题，作者：稲葉直貴"></p>
+<p>沿着虚线将数字和星星连接起来，每个顶点都有线经过。数字大小表示他连接到星星最长一段直线线段的长度（相邻两顶点之间的长度记为1）。</p>
+<ol>
+<li>数字と星を線でつなぐ、このとき線が通らない頂点ができないようにする。</li>
+<li>数字は、そこから伸びる線の最も長い直線部分の長さを表す。</li>
+</ol>
+<p><img src="/images/maxlength_e.png" alt="Max Length 例题，作者：稲葉直貴"></p>
+<p><img src="/images/maxlength_a.png" alt="Max Length 例题解答"></p>
+<h2 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h2><blockquote>
+<ul>
+<li><a href="http://inabapuzzle.com/honkaku/max.html" rel="external nofollow noopener noreferrer" target="_blank">稲葉のパズル研究室</a></li>
+</ul>
+</blockquote>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Max Length（最长线段, 日本語:  ＭＡＸレングス）是由日本谜题作家稻葉直貴于2001年发表的谜题。&lt;/p&gt;
+&lt;h2 id=&quot;规则&quot;&gt;&lt;a href=&quot;#规则&quot; class=&quot;headerlink&quot; title=&quot;规则&quot;&gt;&lt;/a&gt;规则&lt;/h2&gt;&lt;p&gt;&lt;img sr
+    
+    </summary>
+    
+      <category term="Puzzle" scheme="http://wiki.sudokufans.org.cn/categories/Puzzle/"/>
+    
+      <category term="连线类谜题" scheme="http://wiki.sudokufans.org.cn/categories/Puzzle/%E8%BF%9E%E7%BA%BF%E7%B1%BB%E8%B0%9C%E9%A2%98/"/>
+    
+    
+      <category term="Japanese Puzzles" scheme="http://wiki.sudokufans.org.cn/tags/Japanese-Puzzles/"/>
+    
+      <category term="稲葉直貴" scheme="http://wiki.sudokufans.org.cn/tags/%E7%A8%B2%E8%91%89%E7%9B%B4%E8%B2%B4/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Stripe Loop 条纹回路</title>
+    <link href="http://wiki.sudokufans.org.cn/StripeLoop/"/>
+    <id>http://wiki.sudokufans.org.cn/StripeLoop/</id>
+    <published>2018-08-27T12:52:00.000Z</published>
+    <updated>2018-09-23T01:46:28.230Z</updated>
+    
+    <content type="html"><![CDATA[<p>Stripe Loop（条纹回路, 日本語:  ストライプループ）是由日本谜题作家稻葉直貴于2001年发表的谜题。</p>
+<h2 id="规则"><a href="#规则" class="headerlink" title="规则"></a>规则</h2><p><img src="/images/stripeloop.png" alt="Stripe Loop 小型例题，作者：稲葉直貴"></p>
+<p>沿着虚线画上红色和黑色交替的线段，连接所有黑色顶点形成一条回路。盘面上的箭头表示这个方向可以看到的第一条线段的颜色。</p>
+<ol>
+<li>全ての頂点を赤と黒の壁で交互につないで一つのループを作る。</li>
+<li>パズル面の矢印の色は、その方向を見たとき何色の壁が見えるかを表す。</li>
+</ol>
+<p><img src="/images/stripeloop_e.png" alt="Stripe Loop 例题，作者：稲葉直貴"></p>
+<p><img src="/images/stripeloop_a.png" alt="Stripe Loop 例题解答"></p>
+<h2 id="提示"><a href="#提示" class="headerlink" title="提示"></a>提示</h2><p><img src="/images/stripeloop_hint1.png" alt=""> </p>
+<h2 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h2><blockquote>
+<ul>
+<li><a href="http://inabapuzzle.com/honkaku/stripe.html" rel="external nofollow noopener noreferrer" target="_blank">稲葉のパズル研究室</a></li>
+</ul>
+</blockquote>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Stripe Loop（条纹回路, 日本語:  ストライプループ）是由日本谜题作家稻葉直貴于2001年发表的谜题。&lt;/p&gt;
+&lt;h2 id=&quot;规则&quot;&gt;&lt;a href=&quot;#规则&quot; class=&quot;headerlink&quot; title=&quot;规则&quot;&gt;&lt;/a&gt;规则&lt;/h2&gt;&lt;p&gt;&lt;img 
+    
+    </summary>
+    
+      <category term="Puzzle" scheme="http://wiki.sudokufans.org.cn/categories/Puzzle/"/>
+    
+      <category term="回路类谜题" scheme="http://wiki.sudokufans.org.cn/categories/Puzzle/%E5%9B%9E%E8%B7%AF%E7%B1%BB%E8%B0%9C%E9%A2%98/"/>
+    
+    
+      <category term="Japanese Puzzles" scheme="http://wiki.sudokufans.org.cn/tags/Japanese-Puzzles/"/>
+    
+      <category term="稲葉直貴" scheme="http://wiki.sudokufans.org.cn/tags/%E7%A8%B2%E8%91%89%E7%9B%B4%E8%B2%B4/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Daisho 大小分割</title>
     <link href="http://wiki.sudokufans.org.cn/Daisho/"/>
     <id>http://wiki.sudokufans.org.cn/Daisho/</id>
     <published>2018-08-23T11:45:00.000Z</published>
-    <updated>2018-08-23T11:48:23.376Z</updated>
+    <updated>2018-09-23T01:46:09.729Z</updated>
     
     <content type="html"><![CDATA[<p>Daisho（大小分割, 日本語:  大小分割）是由日本谜题作家稻葉直貴于2001年发表的谜题。</p>
 <h2 id="规则"><a href="#规则" class="headerlink" title="规则"></a>规则</h2><p><img src="/images/daisho.png" alt="Daisho 小型例题，作者：稲葉直貴"></p>
@@ -30,7 +363,8 @@
 <li>不等号は、その両側のブロックの大小関係を表す。 </li>
 <li>同じ大きさのブロックは辺で接しない。</li>
 </ol>
-<p><img src="/images/daisho_e.png" alt="Daisho 例题，作者：稲葉直貴"><br><img src="/images/daisho_a.png" alt="Daisho 例题解答"></p>
+<p><img src="/images/daisho_e.png" alt="Daisho 例题，作者：稲葉直貴"></p>
+<p><img src="/images/daisho_a.png" alt="Daisho 例题解答"></p>
 <h2 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h2><blockquote>
 <ul>
 <li><a href="http://inabapuzzle.com/honkaku/daisho.html" rel="external nofollow noopener noreferrer" target="_blank">稲葉のパズル研究室</a></li>
@@ -178,46 +512,6 @@
   </entry>
   
   <entry>
-    <title>In and Out 出入次数</title>
-    <link href="http://wiki.sudokufans.org.cn/InAndOut/"/>
-    <id>http://wiki.sudokufans.org.cn/InAndOut/</id>
-    <published>2018-08-21T11:22:00.000Z</published>
-    <updated>2018-08-21T12:41:23.629Z</updated>
-    
-    <content type="html"><![CDATA[<p>In and Out（出入次数, 日本語:  イン・アウト）是由日本谜题作家稻葉直貴于2001年发表的谜题。</p>
-<h2 id="规则"><a href="#规则" class="headerlink" title="规则"></a>规则</h2><p><img src="/images/inout.png" alt="In and Out 小型例题，作者：稲葉直貴"></p>
-<p>从S到G画一条线，线经过所有格子。数字表示线经过这个粗线区域的次数（进出该区域算经过一次）。</p>
-<ol>
-<li>S（スタート）からG（ゴール）まで全てのマスを一度ずつ通る線を引く。 </li>
-<li>ブロック内の数字は、線がそのブロックを”何回”通過したかを表す。（入ってから出るまでを一回とする。）</li>
-</ol>
-<p><img src="/images/inout_e.png" alt="In and Out 例题，作者：稲葉直貴"><br><img src="/images/inout_a.png" alt="In and Out 例题解答"></p>
-<h2 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h2><blockquote>
-<ul>
-<li><a href="http://inabapuzzle.com/honkaku/inout.html" rel="external nofollow noopener noreferrer" target="_blank">稲葉のパズル研究室</a></li>
-</ul>
-</blockquote>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;In and Out（出入次数, 日本語:  イン・アウト）是由日本谜题作家稻葉直貴于2001年发表的谜题。&lt;/p&gt;
-&lt;h2 id=&quot;规则&quot;&gt;&lt;a href=&quot;#规则&quot; class=&quot;headerlink&quot; title=&quot;规则&quot;&gt;&lt;/a&gt;规则&lt;/h2&gt;&lt;p&gt;&lt;img src
-    
-    </summary>
-    
-      <category term="Puzzle" scheme="http://wiki.sudokufans.org.cn/categories/Puzzle/"/>
-    
-      <category term="连线类谜题" scheme="http://wiki.sudokufans.org.cn/categories/Puzzle/%E8%BF%9E%E7%BA%BF%E7%B1%BB%E8%B0%9C%E9%A2%98/"/>
-    
-    
-      <category term="Japanese Puzzles" scheme="http://wiki.sudokufans.org.cn/tags/Japanese-Puzzles/"/>
-    
-      <category term="稲葉直貴" scheme="http://wiki.sudokufans.org.cn/tags/%E7%A8%B2%E8%91%89%E7%9B%B4%E8%B2%B4/"/>
-    
-  </entry>
-  
-  <entry>
     <title>Two-tone Division 双色分割</title>
     <link href="http://wiki.sudokufans.org.cn/Two-toneDivision/"/>
     <id>http://wiki.sudokufans.org.cn/Two-toneDivision/</id>
@@ -249,6 +543,46 @@
       <category term="Puzzle" scheme="http://wiki.sudokufans.org.cn/categories/Puzzle/"/>
     
       <category term="划区类谜题" scheme="http://wiki.sudokufans.org.cn/categories/Puzzle/%E5%88%92%E5%8C%BA%E7%B1%BB%E8%B0%9C%E9%A2%98/"/>
+    
+    
+      <category term="Japanese Puzzles" scheme="http://wiki.sudokufans.org.cn/tags/Japanese-Puzzles/"/>
+    
+      <category term="稲葉直貴" scheme="http://wiki.sudokufans.org.cn/tags/%E7%A8%B2%E8%91%89%E7%9B%B4%E8%B2%B4/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>In and Out 出入次数</title>
+    <link href="http://wiki.sudokufans.org.cn/InAndOut/"/>
+    <id>http://wiki.sudokufans.org.cn/InAndOut/</id>
+    <published>2018-08-21T11:22:00.000Z</published>
+    <updated>2018-08-21T12:41:23.629Z</updated>
+    
+    <content type="html"><![CDATA[<p>In and Out（出入次数, 日本語:  イン・アウト）是由日本谜题作家稻葉直貴于2001年发表的谜题。</p>
+<h2 id="规则"><a href="#规则" class="headerlink" title="规则"></a>规则</h2><p><img src="/images/inout.png" alt="In and Out 小型例题，作者：稲葉直貴"></p>
+<p>从S到G画一条线，线经过所有格子。数字表示线经过这个粗线区域的次数（进出该区域算经过一次）。</p>
+<ol>
+<li>S（スタート）からG（ゴール）まで全てのマスを一度ずつ通る線を引く。 </li>
+<li>ブロック内の数字は、線がそのブロックを”何回”通過したかを表す。（入ってから出るまでを一回とする。）</li>
+</ol>
+<p><img src="/images/inout_e.png" alt="In and Out 例题，作者：稲葉直貴"><br><img src="/images/inout_a.png" alt="In and Out 例题解答"></p>
+<h2 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h2><blockquote>
+<ul>
+<li><a href="http://inabapuzzle.com/honkaku/inout.html" rel="external nofollow noopener noreferrer" target="_blank">稲葉のパズル研究室</a></li>
+</ul>
+</blockquote>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;In and Out（出入次数, 日本語:  イン・アウト）是由日本谜题作家稻葉直貴于2001年发表的谜题。&lt;/p&gt;
+&lt;h2 id=&quot;规则&quot;&gt;&lt;a href=&quot;#规则&quot; class=&quot;headerlink&quot; title=&quot;规则&quot;&gt;&lt;/a&gt;规则&lt;/h2&gt;&lt;p&gt;&lt;img src
+    
+    </summary>
+    
+      <category term="Puzzle" scheme="http://wiki.sudokufans.org.cn/categories/Puzzle/"/>
+    
+      <category term="连线类谜题" scheme="http://wiki.sudokufans.org.cn/categories/Puzzle/%E8%BF%9E%E7%BA%BF%E7%B1%BB%E8%B0%9C%E9%A2%98/"/>
     
     
       <category term="Japanese Puzzles" scheme="http://wiki.sudokufans.org.cn/tags/Japanese-Puzzles/"/>
@@ -489,517 +823,6 @@
       <category term="Puzzle" scheme="http://wiki.sudokufans.org.cn/categories/Puzzle/"/>
     
       <category term="区域与关系类谜题" scheme="http://wiki.sudokufans.org.cn/categories/Puzzle/%E5%8C%BA%E5%9F%9F%E4%B8%8E%E5%85%B3%E7%B3%BB%E7%B1%BB%E8%B0%9C%E9%A2%98/"/>
-    
-    
-      <category term="Japanese Puzzles" scheme="http://wiki.sudokufans.org.cn/tags/Japanese-Puzzles/"/>
-    
-      <category term="稲葉直貴" scheme="http://wiki.sudokufans.org.cn/tags/%E7%A8%B2%E8%91%89%E7%9B%B4%E8%B2%B4/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Crescendo 递增数链</title>
-    <link href="http://wiki.sudokufans.org.cn/Crescendo/"/>
-    <id>http://wiki.sudokufans.org.cn/Crescendo/</id>
-    <published>2018-08-18T07:47:00.000Z</published>
-    <updated>2018-08-18T08:30:25.871Z</updated>
-    
-    <content type="html"><![CDATA[<p>Crescendo（递增数链, 日本語:  クレシェンド）是由日本谜题作家稻葉直貴于2001年发表的谜题。</p>
-<h2 id="规则"><a href="#规则" class="headerlink" title="规则"></a>规则</h2><p><img src="/images/crescendo.png" alt="Crescendo 小型例题，作者：稲葉直貴"></p>
-<p>将盘面中的数字四个一组沿虚线连接起来，每条数链上的数字沿着数链依次递增。</p>
-<p>端から端まで、順に数字が大きくなるように、パズル面の全ての数字を四つ組にして太線でつなぐ。</p>
-<p><img src="/images/crescendo_e.png" alt="Crescendo 例题，作者：稲葉直貴"><br><img src="/images/crescendo_a.png" alt="Crescendo 例题解答"></p>
-<h2 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h2><blockquote>
-<ul>
-<li><a href="http://inabapuzzle.com/honkaku/cre.html" rel="external nofollow noopener noreferrer" target="_blank">稲葉のパズル研究室</a></li>
-</ul>
-</blockquote>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;Crescendo（递增数链, 日本語:  クレシェンド）是由日本谜题作家稻葉直貴于2001年发表的谜题。&lt;/p&gt;
-&lt;h2 id=&quot;规则&quot;&gt;&lt;a href=&quot;#规则&quot; class=&quot;headerlink&quot; title=&quot;规则&quot;&gt;&lt;/a&gt;规则&lt;/h2&gt;&lt;p&gt;&lt;img src=
-    
-    </summary>
-    
-      <category term="Puzzle" scheme="http://wiki.sudokufans.org.cn/categories/Puzzle/"/>
-    
-      <category term="连线类谜题" scheme="http://wiki.sudokufans.org.cn/categories/Puzzle/%E8%BF%9E%E7%BA%BF%E7%B1%BB%E8%B0%9C%E9%A2%98/"/>
-    
-    
-      <category term="Japanese Puzzles" scheme="http://wiki.sudokufans.org.cn/tags/Japanese-Puzzles/"/>
-    
-      <category term="稲葉直貴" scheme="http://wiki.sudokufans.org.cn/tags/%E7%A8%B2%E8%91%89%E7%9B%B4%E8%B2%B4/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>L Mode L形拼版</title>
-    <link href="http://wiki.sudokufans.org.cn/LMode/"/>
-    <id>http://wiki.sudokufans.org.cn/LMode/</id>
-    <published>2018-08-18T07:29:00.000Z</published>
-    <updated>2018-08-18T07:38:21.402Z</updated>
-    
-    <content type="html"><![CDATA[<p>L Mode （L形拼版, 日本語:  Ｌモード）是由日本谜题作家稻葉直貴于2001年发表的谜题。</p>
-<h2 id="规则"><a href="#规则" class="headerlink" title="规则"></a>规则</h2><p><img src="/images/lmode.png" alt="L Mode 小型例题，作者：稲葉直貴"></p>
-<p>将盘面划分成一些宽度为1的L形区域，使得每个区域内有一个汉字。“纵”表示拼版纵向比横向占格多，“横”表示拼版横向比纵向占格多，“同”表示横向和纵向的占格数相同。</p>
-<ol>
-<li>ブロック内に一つずつ文字が入るように、パズル面の全てのマスをＬ形のブロックに分割する。</li>
-<li>”縦”は、その文字を含むブロックが縦長、”横”はその文字を含むブロックが横長、”同”は縦と横の長さが同じであることを表す。</li>
-</ol>
-<p><img src="/images/lmode_e.png" alt="L Mode 例题，作者：稲葉直貴"><br><img src="/images/lmode_a.png" alt="L Mode 例题解答"></p>
-<h2 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h2><blockquote>
-<ul>
-<li><a href="http://inabapuzzle.com/honkaku/lmode.html" rel="external nofollow noopener noreferrer" target="_blank">稲葉のパズル研究室</a></li>
-</ul>
-</blockquote>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;L Mode （L形拼版, 日本語:  Ｌモード）是由日本谜题作家稻葉直貴于2001年发表的谜题。&lt;/p&gt;
-&lt;h2 id=&quot;规则&quot;&gt;&lt;a href=&quot;#规则&quot; class=&quot;headerlink&quot; title=&quot;规则&quot;&gt;&lt;/a&gt;规则&lt;/h2&gt;&lt;p&gt;&lt;img src=&quot;/im
-    
-    </summary>
-    
-      <category term="Puzzle" scheme="http://wiki.sudokufans.org.cn/categories/Puzzle/"/>
-    
-      <category term="划区类谜题" scheme="http://wiki.sudokufans.org.cn/categories/Puzzle/%E5%88%92%E5%8C%BA%E7%B1%BB%E8%B0%9C%E9%A2%98/"/>
-    
-    
-      <category term="Japanese Puzzles" scheme="http://wiki.sudokufans.org.cn/tags/Japanese-Puzzles/"/>
-    
-      <category term="稲葉直貴" scheme="http://wiki.sudokufans.org.cn/tags/%E7%A8%B2%E8%91%89%E7%9B%B4%E8%B2%B4/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>WPF Puzzle GP 2018 Round 5</title>
-    <link href="http://wiki.sudokufans.org.cn/PuzzleGP2018R5/"/>
-    <id>http://wiki.sudokufans.org.cn/PuzzleGP2018R5/</id>
-    <published>2018-05-31T13:35:00.000Z</published>
-    <updated>2018-06-01T13:19:58.235Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="一、赛事说明"><a href="#一、赛事说明" class="headerlink" title="一、赛事说明"></a>一、赛事说明</h2><p>WPF Sudoku/Puzzle Grand Prix是由世界谜题联合会举办的线上赛事。从每年1月起，每半个月以数独赛和谜题赛交替的形式进行，每项赛事各进行八轮，八轮成绩总排名靠前的将在每年的世锦赛上进行现场决赛。本次进行的是谜题赛的第五轮。</p>
-<ul>
-<li>参赛地址：<a href="http://www.gp.worldpuzzle.org/" rel="external nofollow noopener noreferrer" target="_blank">http://gp.worldpuzzle.org/</a></li>
-<li>比赛时间：2018年6月1日 至 6月4日</li>
-</ul>
-<h2 id="二、题型介绍"><a href="#二、题型介绍" class="headerlink" title="二、题型介绍"></a>二、题型介绍</h2><h3 id="1-2-Arrows-50-33分"><a href="#1-2-Arrows-50-33分" class="headerlink" title="1-2. Arrows (50, 33分)"></a>1-2. Arrows (50, 33分)</h3><ul>
-<li>规则：在盘面外围的空格中画一些箭头，箭头的指向为八个方向之一，但必须至少指向盘面中的一个数字。盘面中的提示数表示指向它的箭头数量。</li>
-</ul>
-<p><img src="/images/grandprix/2018PR5-01.png" alt="Arrows"></p>
-<ul>
-<li>答案提交方式：写出校对行中箭头的指向情况，用“A”表示指向左侧，用“B”表示指向垂直方向，用“C”表示指向右侧。</li>
-</ul>
-<h3 id="3-4-Snake-Length-Ends-23-32分"><a href="#3-4-Snake-Length-Ends-23-32分" class="headerlink" title="3-4. Snake (Length, Ends) (23, 32分)"></a>3-4. Snake (Length, Ends) (23, 32分)</h3><ul>
-<li>规则：确定一个45格长度的蛇（例题中为10格），蛇的头尾位置已给，蛇身横向或纵向行走，不能撞上自己，也不可斜向碰到。周围的数字表示该行或列蛇占格数量。</li>
-</ul>
-<p><img src="/images/grandprix/2018PR5-02.png" alt="Snake"></p>
-<ul>
-<li>答案提交方式：写出校对行中的填涂方式，用“O”表示蛇身，用“X”表示空格。如果你愿意的话，也可以交换O和X的意义，但一道题目中O和X的意义需相同。</li>
-</ul>
-<h3 id="5-Slitherlink-15分"><a href="#5-Slitherlink-15分" class="headerlink" title="5. Slitherlink (15分)"></a>5. Slitherlink (15分)</h3><ul>
-<li>规则：把点与点以直线和横线相连，使之成为一个回路，且只能有一个回路。四点之间的数字代表在其四周的线的数目。 在没有数字的地方，划线的数目没有任何限制，而0的四周则不能有任何划线。路线不能交叉，也不能有分岔。</li>
-</ul>
-<p><img src="/images/grandprix/2018PR5-03.png" alt="Slitherlink"></p>
-<ul>
-<li>答案提交方式：写出校对行的每一格属于回路之外还是之内，用“O”表示回路内，用“X”表示回路外。例题中答案为<strong>XXOOX,OXOXX</strong>。</li>
-</ul>
-<h3 id="6-7-Skyscrapers-28-20分"><a href="#6-7-Skyscrapers-28-20分" class="headerlink" title="6-7. Skyscrapers (28, 20分)"></a>6-7. Skyscrapers (28, 20分)</h3><ul>
-<li>规则：在空格内填入数字1到X（X为每行的空格数），使得每行、列内出现数字1到X各一次。空格内填写数字的大小代表其高度，较小的数字会被较大的数字挡住而看不到。周围的提示数表示从这个位置看该行/列，可以看到的数字总个数（如示意图所示）。盘面中的部分数字已作为提示数给出。</li>
-</ul>
-<p><img src="/images/grandprix/2018PR5-04.png" alt="Skyscrapers"></p>
-<ul>
-<li>答案提交方式：写出标注行中的数字（不包括盘面外面的提示数）。例题中的答案为：<strong>45312,23541</strong>。</li>
-</ul>
-<h3 id="8-9-Cave-29-26分"><a href="#8-9-Cave-29-26分" class="headerlink" title="8-9. Cave (29, 26分)"></a>8-9. Cave (29, 26分)</h3><ul>
-<li>规则：将盘面中的一些格子涂成灰色，使得剩下的格子形成一个纵横相连不间断的区域（我们将这个区域称为山洞）。涂灰格不能位于山洞的内部，换句话说，所有涂灰格需要通过其它涂灰格连接到盘面边缘。所有标有提示数的格必须属于山洞（即不能涂灰），提示数表示横向和纵向与之相连的山洞格共有几格（包括提示格其本身）。</li>
-</ul>
-<p><img src="/images/grandprix/2018PR5-05.png" alt="Cave"></p>
-<ul>
-<li>答案提交方式：对于标记行，写出被涂灰格所划分的每一段山洞格的占格数。如果占格数为两位数，则只填其个位上的数字，如用“0”表示10。如果一行中全是涂灰格，则用数字“0”表示。例题中的答案为<strong>22,4</strong>。</li>
-</ul>
-<h3 id="10-Fillomino-57分"><a href="#10-Fillomino-57分" class="headerlink" title="10. Fillomino (57分)"></a>10. Fillomino (57分)</h3><ul>
-<li>规则：在所有的空格中填入数字。含相同数字的格，纵横相连成为一个区域，将盘面分割。每一个区域中格的数目，与区域中填入的数字相同。数字相同的区域，不可相连。<br><em>盘面中的点为提交答案的标记，无其它特殊意义</em></li>
-</ul>
-<p><img src="/images/grandprix/2018PR5-06.png" alt="Fillomino"></p>
-<ul>
-<li>答案提交方式：依次写出每一列标注圆点格上填的数字，如果所填数字为两位数，则只填其个位上的数字，如用“0”表示10。例题中的答案为<strong>82523655</strong>。</li>
-</ul>
-<h3 id="11-Magnets-71分"><a href="#11-Magnets-71分" class="headerlink" title="11. Magnets (71分)"></a>11. Magnets (71分)</h3><ul>
-<li>规则：在盘面中放入磁铁，磁铁有正极(+)与负极(-)，相同磁性的不能相连。周围的数字表示该行/列正极及负极出现的次数。<br><em>盘面中的点为提交答案的标记，无其它特殊意义</em></li>
-</ul>
-<p><img src="/images/grandprix/2018PR5-07.png" alt="Magnets"></p>
-<ul>
-<li>答案提交方式：依次写出每一列标注圆点格上的符号，用“P”或者“+”表示正极，用“N”或“-”表示负极（需统一用字母或统一用符号），用“X”表示空格。例题中答案为<strong>PXPXNP (或+X+X-+)</strong>。</li>
-</ul>
-<h3 id="12-13-Slitherlink-Big-Cells-23-23分"><a href="#12-13-Slitherlink-Big-Cells-23-23分" class="headerlink" title="12-13. Slitherlink (Big Cells) (23, 23分)"></a>12-13. Slitherlink (Big Cells) (23, 23分)</h3><ul>
-<li>规则：把点与点以直线和横线相连，使之成为一个回路，且只能有一个回路。四点之间的数字代表在其四周的线段的数目（部分较大的格周围的线段数会大于4）。 在没有数字的地方，划线的数目没有任何限制，而0的四周则不能有任何划线。路线不能交叉，也不能有分岔。</li>
-</ul>
-<p><img src="/images/grandprix/2018PR5-08.png" alt="Slitherlink"></p>
-<ul>
-<li>答案提交方式：写出校对行的每一格属于回路之外还是之内，用“O”表示回路内，用“X”表示回路外，大格只需写一次。例题中答案为<strong>XOXOX,XOOOXX</strong>。</li>
-</ul>
-<h3 id="14-Skyscrapers-Big-Cells-21分"><a href="#14-Skyscrapers-Big-Cells-21分" class="headerlink" title="14. Skyscrapers (Big Cells) (21分)"></a>14. Skyscrapers (Big Cells) (21分)</h3><ul>
-<li>规则：在空格内填入数字1到X（X为每行的空格数），使得每行、列内出现数字1到X各一次。空格内填写数字的大小代表其高度，较小的数字会被较大的数字挡住而看不到。周围的提示数表示从这个位置看该行/列，可以看到的数字总个数。盘面中的部分数字已作为提示数给出。部分格占据多行或多列，部分格不填数字（涂灰标示）。</li>
-</ul>
-<p><img src="/images/grandprix/2018PR5-09.png" alt="Skyscrapers"></p>
-<ul>
-<li>答案提交方式：写出标注行中的数字（不包括盘面外面的提示数）。例题中的答案为：<strong>2134,4312</strong>。</li>
-</ul>
-<h3 id="15-Cave-Big-Cells-51分"><a href="#15-Cave-Big-Cells-51分" class="headerlink" title="15. Cave (Big Cells) (51分)"></a>15. Cave (Big Cells) (51分)</h3><ul>
-<li>规则：将盘面中的一些格子涂成灰色，使得剩下的格子形成一个纵横相连不间断的区域（我们将这个区域称为山洞）。涂灰格不能位于山洞的内部，换句话说，所有涂灰格需要通过其它涂灰格连接到盘面边缘。所有标有提示数的格必须属于山洞（即不能涂灰），提示数表示横向和纵向与之相连的山洞格共有几格（包括提示格其本身）。部分格占据多行或多列，在计算时需计算其所在多行及多列的所有格，该格本身只会被计算一次。</li>
-</ul>
-<p><img src="/images/grandprix/2018PR5-10.png" alt="Cave"></p>
-<ul>
-<li>答案提交方式：对于标记行，写出被涂灰格所划分的每一段山洞格的占格数。如果占格数为两位数，则只填其个位上的数字，如用“0”表示10。如果一行中全是涂灰格，则用数字“0”表示。例题中的答案为<strong>21,31</strong>。</li>
-</ul>
-<h3 id="16-Fillomino-Big-Cells-55分"><a href="#16-Fillomino-Big-Cells-55分" class="headerlink" title="16. Fillomino (Big Cells) (55分)"></a>16. Fillomino (Big Cells) (55分)</h3><ul>
-<li>规则：在所有的空格中填入数字。含相同数字的格，纵横相连成为一个区域，将盘面分割。每一个区域中格的数目，与区域中填入的数字相同。数字相同的区域，不可相连。需注意部分格所占位置比传统的格更大。<br><em>盘面中的点为提交答案的标记，无其它特殊意义</em></li>
-</ul>
-<p><img src="/images/grandprix/2018PR5-11.png" alt="Fillomino"></p>
-<ul>
-<li>答案提交方式：依次写出每一列标注圆点格上填的数字，如果所填数字为两位数，则只填其个位上的数字，如用“0”表示10。例题中的答案为<strong>34753</strong>。</li>
-</ul>
-<h3 id="17-18-Antidomino-Snaky-Loop-37-64分"><a href="#17-18-Antidomino-Snaky-Loop-37-64分" class="headerlink" title="17-18. Antidomino Snaky Loop (37, 64分)"></a>17-18. Antidomino Snaky Loop (37, 64分)</h3><ul>
-<li>规则：找出盘面中一条类似于snake规则的回路，它经过一些标有数字的格子后返回其起始位置。每个格子至多只能在回路中使用一次。回路不能碰到其自身（包括对角方向）。回路所占格恰好能够放置所有给出的骨牌，每行、列内的数字不能重复。一格与其周围相邻八格内的数字也不能重复。外围的提示数分别表示该行或列内有几格属于回路，以及所有这些属于回路格的数值之和。</li>
-</ul>
-<p><img src="/images/grandprix/2018PR5-12.png" alt="Antidomino Snaky Loop"></p>
-<ul>
-<li>答案提交方式：依次写出校对行的填写情况，用“X”表示该格不属于蛇身。例题中的答案为<strong>XX2543,431X5X</strong>。</li>
-</ul>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;h2 id=&quot;一、赛事说明&quot;&gt;&lt;a href=&quot;#一、赛事说明&quot; class=&quot;headerlink&quot; title=&quot;一、赛事说明&quot;&gt;&lt;/a&gt;一、赛事说明&lt;/h2&gt;&lt;p&gt;WPF Sudoku/Puzzle Grand Prix是由世界谜题联合会举办的线上赛事。从每年1月起，每半
-    
-    </summary>
-    
-      <category term="Contest" scheme="http://wiki.sudokufans.org.cn/categories/Contest/"/>
-    
-      <category term="2018" scheme="http://wiki.sudokufans.org.cn/categories/Contest/2018/"/>
-    
-    
-      <category term="2018" scheme="http://wiki.sudokufans.org.cn/tags/2018/"/>
-    
-      <category term="WPF Grand Prix" scheme="http://wiki.sudokufans.org.cn/tags/WPF-Grand-Prix/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>WPF Puzzle GP 2018 Round 4</title>
-    <link href="http://wiki.sudokufans.org.cn/PuzzleGP2018R4/"/>
-    <id>http://wiki.sudokufans.org.cn/PuzzleGP2018R4/</id>
-    <published>2018-05-27T13:25:00.000Z</published>
-    <updated>2018-05-31T13:34:34.615Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="一、赛事说明"><a href="#一、赛事说明" class="headerlink" title="一、赛事说明"></a>一、赛事说明</h2><p>WPF Sudoku/Puzzle Grand Prix是由世界谜题联合会举办的线上赛事。从每年1月起，每半个月以数独赛和谜题赛交替的形式进行，每项赛事各进行八轮，八轮成绩总排名靠前的将在每年的世锦赛上进行现场决赛。本次进行的是谜题赛的第四轮。</p>
-<ul>
-<li>参赛地址：<a href="http://www.gp.worldpuzzle.org/" rel="external nofollow noopener noreferrer" target="_blank">http://gp.worldpuzzle.org/</a></li>
-<li>比赛时间：2018年5月4日 至 5月7日</li>
-</ul>
-<h2 id="二、题型介绍"><a href="#二、题型介绍" class="headerlink" title="二、题型介绍"></a>二、题型介绍</h2><h3 id="1-Minesweeper-Pills-作者：Pavel-Kadlecik-22分"><a href="#1-Minesweeper-Pills-作者：Pavel-Kadlecik-22分" class="headerlink" title="1. Minesweeper (Pills) [作者：Pavel Kadlečík] (22分)"></a>1. Minesweeper (Pills) [作者：Pavel Kadlečík] (22分)</h3><ul>
-<li>规则：在没有提示数的格子内放入一些“雷”。提示数表示其上下、左右、对角线相邻格中共有几颗雷（注意这里不是相邻格中有几格有雷）。每颗雷占据横向或纵向相邻的两格。雷与雷两两之间不能重叠放置。</li>
-</ul>
-<p><img src="/images/grandprix/2018PR4-01.png" alt="Minesweeper (Pills) ，作者：Pavel Kadlečík"></p>
-<ul>
-<li>答案提交方式：写出校对行的标记情况，用字母“O”表示该格是雷，用字母“X”表示该格空白或者是提示数。例题中答案为<strong>OXOOX, XXXXX</strong>。</li>
-</ul>
-<h3 id="2-Four-Winds-作者：Jiri-Hrdina-21分"><a href="#2-Four-Winds-作者：Jiri-Hrdina-21分" class="headerlink" title="2. Four Winds [作者：Jiří Hrdina] (21分)"></a>2. Four Winds [作者：Jiří Hrdina] (21分)</h3><ul>
-<li>规则：由每个提示数出发画一些横向或纵向的线，使得线经过格的总和等于提示数（提示数格不被计算在内）。线两两之间不可交叉或重叠，每个空格恰好都有线经过。<br><em>题目上的圆点只是用于答案提交的。</em></li>
-</ul>
-<p><img src="/images/grandprix/2018PR4-02.png" alt="Four Winds，作者：Jiří Hrdina"></p>
-<ul>
-<li>答案提交方式：从左往右依次写出每个点所对应的提示数。如果提示数是两位数，则只写其个位，比如用“0”表示10。例题中的答案为<strong>62224</strong>。</li>
-</ul>
-<h3 id="3-No-Four-in-a-Row-Overlapping-作者：Pavel-Kadlecik-14分"><a href="#3-No-Four-in-a-Row-Overlapping-作者：Pavel-Kadlecik-14分" class="headerlink" title="3. No Four in a Row (Overlapping) [作者：Pavel Kadlečík] (14分)"></a>3. No Four in a Row (Overlapping) [作者：Pavel Kadlečík] (14分)</h3><ul>
-<li>规则：在空格内画上O或X，使得每组横向、纵向或斜向相连的四格上的标记不全相同。有部分已给出的提示格同时有O和X两种标记。</li>
-</ul>
-<p><img src="/images/grandprix/2018PR4-03.png" alt="No Four in a Row (Overlapping) ，作者：Pavel Kadlečík"></p>
-<ul>
-<li>答案提交方式：写出校对行的标记情况，用“O”表示画圆圈的格，用“X”表示画叉的格，用“2”表示同时有圈和叉两种标记。例题中的答案为<strong>XOO2X,OXOXX</strong>。</li>
-</ul>
-<h3 id="4-Hitori-作者：Zuzana-Vytiskova-13分"><a href="#4-Hitori-作者：Zuzana-Vytiskova-13分" class="headerlink" title="4. Hitori [作者：Zuzana Vytisková] (13分)"></a>4. Hitori [作者：Zuzana Vytisková] (13分)</h3><ul>
-<li>规则：将数盘中的某些数字涂黑，令每行、列中没有重复数字出现。黑色方格不得横向或纵向相连，且不能将整个数盘分为两部分。<br><em>题目上方的数字只是用于答案提交的。</em></li>
-</ul>
-<p><img src="/images/grandprix/2018PR4-04.png" alt="Hitori，作者：Zuzana Vytisková"></p>
-<ul>
-<li>答案提交方式：从上到下依次写出每一行第一个涂黑格所在列号，如果所在列号为两位数，则只取其个位，比如用“0”表示10。例题中答案为<strong>10232</strong>。</li>
-</ul>
-<h3 id="5-Snaky-Loop-Regions-作者：Jan-Novotny-26分"><a href="#5-Snaky-Loop-Regions-作者：Jan-Novotny-26分" class="headerlink" title="5. Snaky Loop (Regions) [作者：Jan Novotný] (26分)"></a>5. Snaky Loop (Regions) [作者：Jan Novotný] (26分)</h3><ul>
-<li>规则：在盘面中画一条“蛇”一样的回路，“蛇”横向或纵向行走依次经过盘面上的部分格子，每格至多经过一次。回路的总占格数需大于4。“蛇”身不能碰到自己，包括对角线方向。每个粗线区域内的蛇身数量是相同的。每个粗线区域可以多次出入。</li>
-</ul>
-<p><img src="/images/grandprix/2018PR4-05.png" alt="Snaky Loop (Regions) ，作者：Jan Novotný"></p>
-<ul>
-<li>答案提交方式：写出校对行的标记情况，用“O”表示蛇身，“X”表示空格。如果你想对换一下O和X也是可以的。例题中的答案为<strong>XXXXX,OXXOX (或 OOOOO,XOOXO)</strong></li>
-</ul>
-<h3 id="6-Nurikabe-作者：Jan-Zverina-24分"><a href="#6-Nurikabe-作者：Jan-Zverina-24分" class="headerlink" title="6. Nurikabe [作者：Jan Zvěřina] (24分)"></a>6. Nurikabe [作者：Jan Zvěřina] (24分)</h3><ul>
-<li>规则：将数盘内的一些方格涂黑。已标示有数字的方格不可涂黑。每个数字是一个岛，代表数字四周白色方格的数目（含有数字格子）；每一个小岛内必须有且仅有一个数字。所有黑格以横向纵向相连形成一个不间断的网络，任意2×2区域不能同时被涂黑。</li>
-</ul>
-<p><img src="/images/grandprix/2018PR4-06.png" alt="Nurikabe，作者：Jan Zvěřina"></p>
-<ul>
-<li>答案提交方式：按照从左往右的顺序写出校对行中每组连续涂黑格的长度。如长度超过10，则只取其个位数，如用“0”表示10。例题中的答案为<strong>5,31,111</strong>。</li>
-</ul>
-<h3 id="7-Skyscrapers-作者：Petr-Lichy-62分"><a href="#7-Skyscrapers-作者：Petr-Lichy-62分" class="headerlink" title="7. Skyscrapers [作者：Petr Lichý] (62分)"></a>7. Skyscrapers [作者：Petr Lichý] (62分)</h3><ul>
-<li>规则：将1-X（X为每行的格子数）填入空格，使得每行、列数字不重复，周围的提示数表示这个方向可以看到的数字个数，较大的数字会挡住较小的数字使其不被看到。</li>
-</ul>
-<p><img src="/images/grandprix/2018PR4-07.png" alt="Skyscrapers，作者：Petr Lichý"></p>
-<ul>
-<li>答案提交方式：写出校对行内填的数字，注意盘面外的提示数不需要写出。例题中的答案为<strong>45312,23541</strong>。</li>
-</ul>
-<h3 id="8-Slash-Pack-作者：Jan-Zverina-53分"><a href="#8-Slash-Pack-作者：Jan-Zverina-53分" class="headerlink" title="8. Slash Pack [作者：Jan Zvěřina] (53分)"></a>8. Slash Pack [作者：Jan Zvěřina] (53分)</h3><ul>
-<li>规则：在一些空格内画一条对角线，这些对角线彼此相连将盘面划分成几个区域（各条对角线必须用作划分区域之用）。每个区域内恰好出现每种标记一次。</li>
-</ul>
-<p><img src="/images/grandprix/2018PR4-08.png" alt="Slash Pack，作者：Jan Zvěřina"></p>
-<ul>
-<li>答案提交方式：写出校对行内的划线方式，用“N”表示左上到右下的对角线，用“Z”表示右上到左下的对角线，用“O”表示空格或提示数格。如果你愿意，也可以用“\”代替“N”，用“/”代替“Z”。例题中的答案为<strong>OOONO,OZNZO (或 OOO\O,O/\/O)</strong>。</li>
-</ul>
-<h3 id="9-Kakuro-作者：Pavel-Kadlecik-95分"><a href="#9-Kakuro-作者：Pavel-Kadlecik-95分" class="headerlink" title="9. Kakuro [作者：Pavel Kadlečík] (95分)"></a>9. Kakuro [作者：Pavel Kadlečík] (95分)</h3><ul>
-<li>规则：在空格内选择1至9中的某个数字填入。使得满足斜线上方的数字等于该方格右面对应的一组水平连续空格里所填各个的数字之和；斜线下方的数字，等于该方格下面对应一组垂直连续空格里所填各个数字之和。同一数字在每组水平或垂直连续空格里只能出现一次。<br><em>题目上的圆点只是用于答案提交的。</em></li>
-</ul>
-<p><img src="/images/grandprix/2018PR4-09.png" alt="Kakuro，作者：Pavel Kadlečík"></p>
-<ul>
-<li>答案提交方式：依次写出每一列标注格所填数字。例题中的答案为<strong>17752</strong>。</li>
-</ul>
-<h3 id="10-Masyu-作者：Jan-Novotny-3分"><a href="#10-Masyu-作者：Jan-Novotny-3分" class="headerlink" title="10. Masyu [作者：Jan Novotný] (3分)"></a>10. Masyu [作者：Jan Novotný] (3分)</h3><ul>
-<li>规则：用横向或纵向的线连接方格，并经过所有黑圈与白圈格，形成回路。白圈格必须笔直通过，且在其前一格和/或后一格拐弯；经过黑圈格要直角转折，且前后必须直行通过其周围方格，直到第二个方格才可转折。</li>
-</ul>
-<p><img src="/images/grandprix/2018PR4-10.png" alt="Masyu，作者：Jan Novotný"></p>
-<ul>
-<li>答案提交方式：写出校对行的划线方式，用“I”表示直线经过，用“L”表示拐角经过，用“X”表示没有线经过。例题中答案为<strong>LLXXX,LIILX</strong>。</li>
-</ul>
-<h3 id="11-Masyu-Single-Liar-作者：Jakub-Hrazdira-26分"><a href="#11-Masyu-Single-Liar-作者：Jakub-Hrazdira-26分" class="headerlink" title="11. Masyu (Single Liar) [作者：Jakub Hrazdira] (26分)"></a>11. Masyu (Single Liar) [作者：Jakub Hrazdira] (26分)</h3><ul>
-<li>规则：用横向或纵向的线连接方格，并经过所有黑圈与白圈格，形成回路。白圈格必须笔直通过，且在其前一格和/或后一格拐弯；经过黑圈格要直角转折，且前后必须直行通过其周围方格，直到第二个方格才可转折。盘面中有一处标记是错误的（如果是黑格，则实际是白格；如果是白格，则实际是黑格），至于是哪一格，需要玩家自行推导。</li>
-</ul>
-<p><img src="/images/grandprix/2018PR4-11.png" alt="Masyu (Single Liar) ，作者：Jakub Hrazdira"></p>
-<ul>
-<li>答案提交方式：写出校对行的划线方式，用“I”表示直线经过，用“L”表示拐角经过，用“X”表示没有线经过。例题中答案为<strong>LLXXX,LIILX</strong>。</li>
-</ul>
-<h3 id="12-Slitherlink-作者：Jakub-Hrazdira-27分"><a href="#12-Slitherlink-作者：Jakub-Hrazdira-27分" class="headerlink" title="12. Slitherlink [作者：Jakub Hrazdira] (27分)"></a>12. Slitherlink [作者：Jakub Hrazdira] (27分)</h3><ul>
-<li>规则：把点与点以直线和横线相连，使之成为一个回路，且只能有一个回路。四点之间的数字代表在其四周的线的数目。 在没有数字的地方，划线的数目没有任何限制，而0的四周则不能有任何划线。路线不能交叉，也不能有分岔。</li>
-</ul>
-<p><img src="/images/grandprix/2018PR4-12.png" alt="Slitherlink，作者：Jakub Hrazdira"></p>
-<ul>
-<li>答案提交方式：写出校对行的每一格属于回路之外还是之内，用“O”表示回路内，用“X”表示回路外。例题中答案为<strong>XXOOX,OXOXX</strong>。</li>
-</ul>
-<h3 id="13-Slitherlink-Hexagonal-作者：Jan-Novotny-53分"><a href="#13-Slitherlink-Hexagonal-作者：Jan-Novotny-53分" class="headerlink" title="13. Slitherlink (Hexagonal) [作者：Jan Novotný] (53分)"></a>13. Slitherlink (Hexagonal) [作者：Jan Novotný] (53分)</h3><ul>
-<li>规则：沿着虚线将点与点相连，使之成为一个回路，且只能有一个回路。六边形中间的数字代表其周围<br>六条边中有几条属于回路。<br><em>题目中的灰色横线只是用于帮助你分辨校对行的。</em></li>
-</ul>
-<p><img src="/images/grandprix/2018PR4-13.png" alt="Slitherlink (Hexagonal)，作者：Jan Novotný"></p>
-<ul>
-<li>答案提交方式：写出校对行的每一格属于回路之外还是之内，用“O”表示回路内，用“X”表示回路外。例题中答案为<strong>OOX,OXOXO</strong>。</li>
-</ul>
-<h3 id="14-Tetromino-Division-作者：Jan-Novotny-5分"><a href="#14-Tetromino-Division-作者：Jan-Novotny-5分" class="headerlink" title="14. Tetromino Division [作者：Jan Novotný] (5分)"></a>14. Tetromino Division [作者：Jan Novotný] (5分)</h3><ul>
-<li>规则：将盘面分割称为一些四格拼版，每一格都属于某一块四格拼版。盘面上某些格已经给出代表其所在拼版的字母，每个拼版内恰好有一个提示字母。所有相同形状拼版上（不包括旋转和翻转的）的字母必须相同，所有不同形状的拼版上的字母不同。需要用到的拼版所代表字母题中已给出。</li>
-</ul>
-<p><img src="/images/grandprix/2018PR4-14.png" alt="Tetromino Division，作者：Jan Novotný"></p>
-<ul>
-<li>答案提交方式：写出校对行每一格拼版所对应字母<strong>ILSSLI,TTTTOO</strong>。</li>
-</ul>
-<h3 id="15-Coral-作者：Jan-Novotny-17分"><a href="#15-Coral-作者：Jan-Novotny-17分" class="headerlink" title="15. Coral [作者：Jan Novotný] (17分)"></a>15. Coral [作者：Jan Novotný] (17分)</h3><ul>
-<li>规则：将盘面中某些空格涂黑形成一片上下左右相连不间断的珊瑚，周围的提示数表示几组连续涂黑的占格数，例如提示134表示该行/列为一组占1格，一组连续3格，一组连续4格，每组之间至少有一个空格隔开，提示数无顺序，即134的实际排列顺序可能是134也可能是143等。每个2×2的四小方格不能同时涂黑，珊瑚本身也不可对角方向相接。所有不属于珊瑚的格必须横向或纵向（通过其他非珊瑚格）到达盘面边缘。</li>
-</ul>
-<p><img src="/images/grandprix/2018PR4-15.png" alt="Coral，作者：Jan Novotný"></p>
-<ul>
-<li>答案提交方式：写出校对行的涂黑情况，用“O”表示未涂黑格，用“X”表示涂黑格。例题中答案为<strong>OOOXO,OXOOX</strong>。</li>
-</ul>
-<h3 id="16-Coral-Overlapping-作者：Jan-Novotny-16-points"><a href="#16-Coral-Overlapping-作者：Jan-Novotny-16-points" class="headerlink" title="16. Coral (Overlapping) [作者：Jan Novotný] (16 points)"></a>16. Coral (Overlapping) [作者：Jan Novotný] (16 points)</h3><ul>
-<li>规则：在盘面的空格内放上O或X，使得所有标记O的格纵横相连，所有标记X的格也纵横相连成不间断的区域。所有非O的格子必须横向或纵向（通过其他非O格子）可到达盘面边缘。所有非X的格子必须横向或纵向（通过其他非X格子）可到达盘面边缘。每个2×2的四小方格不能同为O或X。有些特殊格同时有O和X两种标记，所有特殊格均已给出。在盘面左侧的提示数给出的是所对应行内X标记的情况，每个数字代表每组标记X格的占格数，提示无顺序。在盘面上方的提示数给出的是所对应列内O标记的情况，每个数字代表每组标记O格的占格数，提示无顺序。没有标注的行或列需自行推理。</li>
-</ul>
-<p><img src="/images/grandprix/2018PR4-16.png" alt="Coral(Overlapping)，作者：Jan Novotný"></p>
-<ul>
-<li>答案提交方式：写出校对行的标记情况，用“O”表示标记为O，用“X”表示标记为X，用“2”表示同时出现O和X。例题中答案为<strong>OOOXO,OXOO2</strong>。</li>
-</ul>
-<h3 id="17-Doppelblock-Diagonals-作者：Jan-Novotny-11分"><a href="#17-Doppelblock-Diagonals-作者：Jan-Novotny-11分" class="headerlink" title="17. Doppelblock (Diagonals) [作者：Jan Novotný] (11分)"></a>17. Doppelblock (Diagonals) [作者：Jan Novotný] (11分)</h3><ul>
-<li>规则：在盘面中填入方块或1到X之间的数字，使得每行、列、两条大对角线出现两个方块和1到X各一次。（X的大小为每行的格子数减2）。周围的提示数表示其对应的行、列或对角线中，两个涂黑方块格之间数字之和。</li>
-</ul>
-<p><img src="/images/grandprix/2018PR4-17.png" alt="Doppelblock (Diagonals) ，作者：Jan Novotný"></p>
-<ul>
-<li>答案提交方式：依次写出校对行的内容，用“X”表示涂黑格，如果格内数字大于10，则只填其个位数。如用“0”表示10。填写答案时注意不要把提示数一并写进去。例题中答案为<strong>32XX1,1X23X</strong>。</li>
-</ul>
-<h3 id="18-Doppelblock-Set-Diagonals-作者：Jan-Novotny-84分"><a href="#18-Doppelblock-Set-Diagonals-作者：Jan-Novotny-84分" class="headerlink" title="18. Doppelblock (Set, Diagonals) [作者：Jan Novotný] (84分)"></a>18. Doppelblock (Set, Diagonals) [作者：Jan Novotný] (84分)</h3><p>*规则：在盘面中填入方块或给出的数字集合中的数字，使得每行、列、两条大对角线出现两个方块和每个集合中的数字各一次。周围的提示数表示其对应的行、列或对角线中，两个涂黑方块格之间数字之和。</p>
-<p><img src="/images/grandprix/2018PR4-18.png" alt="Doppelblock (Set, Diagonals) ，作者：Jan Novotný"></p>
-<ul>
-<li>答案提交方式：依次写出校对行的内容，用“X”表示涂黑格，如果格内数字大于10，则只填其个位数。如用“0”表示10。填写答案时注意不要把提示数一并写进去。例题中答案为<strong>32XX2,2X32X</strong>。</li>
-</ul>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;h2 id=&quot;一、赛事说明&quot;&gt;&lt;a href=&quot;#一、赛事说明&quot; class=&quot;headerlink&quot; title=&quot;一、赛事说明&quot;&gt;&lt;/a&gt;一、赛事说明&lt;/h2&gt;&lt;p&gt;WPF Sudoku/Puzzle Grand Prix是由世界谜题联合会举办的线上赛事。从每年1月起，每半
-    
-    </summary>
-    
-      <category term="Contest" scheme="http://wiki.sudokufans.org.cn/categories/Contest/"/>
-    
-      <category term="2018" scheme="http://wiki.sudokufans.org.cn/categories/Contest/2018/"/>
-    
-    
-      <category term="2018" scheme="http://wiki.sudokufans.org.cn/tags/2018/"/>
-    
-      <category term="WPF Grand Prix" scheme="http://wiki.sudokufans.org.cn/tags/WPF-Grand-Prix/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Sum Connection 数和连线</title>
-    <link href="http://wiki.sudokufans.org.cn/SumConnection/"/>
-    <id>http://wiki.sudokufans.org.cn/SumConnection/</id>
-    <published>2017-11-06T12:25:00.000Z</published>
-    <updated>2018-05-27T13:34:35.903Z</updated>
-    
-    <content type="html"><![CDATA[<p>Sum Connection（数和连线, 日本語:  サムコネクション）是由日本谜题作家稻葉直貴于2001年发表的谜题。</p>
-<h2 id="规则"><a href="#规则" class="headerlink" title="规则"></a>规则</h2><p><img src="/images/sumconnection.png" alt="Sum Connection 小型例题，作者：稲葉直貴"></p>
-<p>把数字两两连起来，连线的长度等于两数之和，连线彼此间不能交叉。长度的计算方法以格的中心开始计算。</p>
-<ol>
-<li>二つの数字を組にして線でつなぐ。</li>
-<li>その数字の和が、線の長さと等しくなるようにする。</li>
-</ol>
-<p><img src="/images/sumconnection_e.png" alt="Sum Connection 例题，作者：稲葉直貴"><br><img src="/images/sumconnection_a.png" alt="Sum Connection 例题解答"></p>
-<h2 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h2><blockquote>
-<ul>
-<li><a href="http://inabapuzzle.com/honkaku/cone.html" rel="external nofollow noopener noreferrer" target="_blank">稲葉のパズル研究室</a></li>
-</ul>
-</blockquote>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;Sum Connection（数和连线, 日本語:  サムコネクション）是由日本谜题作家稻葉直貴于2001年发表的谜题。&lt;/p&gt;
-&lt;h2 id=&quot;规则&quot;&gt;&lt;a href=&quot;#规则&quot; class=&quot;headerlink&quot; title=&quot;规则&quot;&gt;&lt;/a&gt;规则&lt;/h2&gt;&lt;p&gt;&lt;i
-    
-    </summary>
-    
-      <category term="Puzzle" scheme="http://wiki.sudokufans.org.cn/categories/Puzzle/"/>
-    
-      <category term="连线类谜题" scheme="http://wiki.sudokufans.org.cn/categories/Puzzle/%E8%BF%9E%E7%BA%BF%E7%B1%BB%E8%B0%9C%E9%A2%98/"/>
-    
-    
-      <category term="Japanese Puzzles" scheme="http://wiki.sudokufans.org.cn/tags/Japanese-Puzzles/"/>
-    
-      <category term="稲葉直貴" scheme="http://wiki.sudokufans.org.cn/tags/%E7%A8%B2%E8%91%89%E7%9B%B4%E8%B2%B4/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Number Block 数字拼版</title>
-    <link href="http://wiki.sudokufans.org.cn/NumberBlock/"/>
-    <id>http://wiki.sudokufans.org.cn/NumberBlock/</id>
-    <published>2017-11-06T12:03:00.000Z</published>
-    <updated>2017-11-06T12:26:38.271Z</updated>
-    
-    <content type="html"><![CDATA[<p>Number Block（数字拼版, 日本語: サムコネクション）是由日本谜题作家稻葉直貴于2001年发表的谜题。</p>
-<h2 id="规则"><a href="#规则" class="headerlink" title="规则"></a>规则</h2><p><img src="/images/numberblock.png" alt="Number Block 小型例题，作者：稲葉直貴"></p>
-<p>在盘面的空格里填上数字，使得每个粗线围成的区域内出现1~N各一次，N为区域内的格数。相同的数字不能左右、上下或斜向相邻。</p>
-<ol>
-<li>二つの数字を組にして線でつなぐ。</li>
-<li>その数字の和が、線の長さと等しくなるようにする。</li>
-</ol>
-<p><img src="/images/numberblock_e.png" alt="Number Block 例题，作者：稲葉直貴"><br><img src="/images/numberblock_a.png" alt="Number Block 例题解答"></p>
-<h2 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h2><blockquote>
-<ul>
-<li><a href="http://inabapuzzle.com/honkaku/nblock.html" rel="external nofollow noopener noreferrer" target="_blank">稲葉のパズル研究室</a></li>
-</ul>
-</blockquote>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;Number Block（数字拼版, 日本語: サムコネクション）是由日本谜题作家稻葉直貴于2001年发表的谜题。&lt;/p&gt;
-&lt;h2 id=&quot;规则&quot;&gt;&lt;a href=&quot;#规则&quot; class=&quot;headerlink&quot; title=&quot;规则&quot;&gt;&lt;/a&gt;规则&lt;/h2&gt;&lt;p&gt;&lt;img 
-    
-    </summary>
-    
-      <category term="Puzzle" scheme="http://wiki.sudokufans.org.cn/categories/Puzzle/"/>
-    
-      <category term="数字类谜题" scheme="http://wiki.sudokufans.org.cn/categories/Puzzle/%E6%95%B0%E5%AD%97%E7%B1%BB%E8%B0%9C%E9%A2%98/"/>
-    
-    
-      <category term="Japanese Puzzles" scheme="http://wiki.sudokufans.org.cn/tags/Japanese-Puzzles/"/>
-    
-      <category term="稲葉直貴" scheme="http://wiki.sudokufans.org.cn/tags/%E7%A8%B2%E8%91%89%E7%9B%B4%E8%B2%B4/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Clock Place 放置时钟</title>
-    <link href="http://wiki.sudokufans.org.cn/ClockPlace/"/>
-    <id>http://wiki.sudokufans.org.cn/ClockPlace/</id>
-    <published>2017-11-04T08:09:00.000Z</published>
-    <updated>2017-11-04T12:14:08.834Z</updated>
-    
-    <content type="html"><![CDATA[<p>Clock Place（放置时钟, 日本語: クロックプレース）是由日本谜题作家稻葉直貴于2001年发表的谜题。</p>
-<h2 id="规则"><a href="#规则" class="headerlink" title="规则"></a>规则</h2><p><img src="/images/clockplace.png" alt="Clock Place 小型例题，作者：稲葉直貴"></p>
-<p>在盘面上放置一些时钟，上方和左侧的数字表示该列或该行有几个时钟。每行及每列的时钟按照0点、3点、6点、9点、0点、3点…的顺序依次出现。</p>
-<ol>
-<li>全ての列で、上から下（左から右）に見たとき、時計の針が90度ずつ右周りに回転しているように時計を配置する。</li>
-<li>外側の数字はその列にいくつの時計が入るかを表す。</li>
-</ol>
-<p>Put clocks into some cells of the diagram. The numbers at the top and left edge of the diagram indicate how many clocks must be put in the corresponding row or column. The clocks in a row resp. column must show successive times in order: 0:00 » 3:00 » 6:00 » 9.00 » 0:00 » etc.</p>
-<p><img src="/images/clockplace_e.png" alt="Clock Place 例题，作者：稲葉直貴"><br><img src="/images/clockplace_a.png" alt="Clock Place 例题解答"></p>
-<h2 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h2><blockquote>
-<ul>
-<li><a href="http://inabapuzzle.com/honkaku/clock.html" rel="external nofollow noopener noreferrer" target="_blank">稲葉のパズル研究室</a></li>
-<li><a href="https://www.janko.at/Raetsel/Naoki/Clocks.htm" rel="external nofollow noopener noreferrer" target="_blank">Janko.at</a></li>
-</ul>
-</blockquote>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;Clock Place（放置时钟, 日本語: クロックプレース）是由日本谜题作家稻葉直貴于2001年发表的谜题。&lt;/p&gt;
-&lt;h2 id=&quot;规则&quot;&gt;&lt;a href=&quot;#规则&quot; class=&quot;headerlink&quot; title=&quot;规则&quot;&gt;&lt;/a&gt;规则&lt;/h2&gt;&lt;p&gt;&lt;img s
-    
-    </summary>
-    
-      <category term="Puzzle" scheme="http://wiki.sudokufans.org.cn/categories/Puzzle/"/>
-    
-      <category term="放置类谜题" scheme="http://wiki.sudokufans.org.cn/categories/Puzzle/%E6%94%BE%E7%BD%AE%E7%B1%BB%E8%B0%9C%E9%A2%98/"/>
-    
-    
-      <category term="Japanese Puzzles" scheme="http://wiki.sudokufans.org.cn/tags/Japanese-Puzzles/"/>
-    
-      <category term="稲葉直貴" scheme="http://wiki.sudokufans.org.cn/tags/%E7%A8%B2%E8%91%89%E7%9B%B4%E8%B2%B4/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Cut Blocks 板块分割</title>
-    <link href="http://wiki.sudokufans.org.cn/CutBlocks/"/>
-    <id>http://wiki.sudokufans.org.cn/CutBlocks/</id>
-    <published>2017-11-04T08:09:00.000Z</published>
-    <updated>2017-11-04T08:13:50.084Z</updated>
-    
-    <content type="html"><![CDATA[<p>Cut Blocks（板块分割, 日本語: カットブロック）是由日本谜题作家稻葉直貴于2001年发表的谜题。</p>
-<h2 id="规则"><a href="#规则" class="headerlink" title="规则"></a>规则</h2><p><img src="/images/cutblocks.png" alt="Cut Blocks 小型例题，作者：稲葉直貴"></p>
-<p>盘面当中有一些被粗线划分的拼版，将每个现有拼版分割成为两部分，使得所有相邻拼板的占格数各不相同。</p>
-<ol>
-<li>パズル面の全てのブロックに仕切りを入れて二つのブロックに分ける。</li>
-<li>全て分け終えたとき、同じ面積のブロックが辺で接しないようにする。</li>
-</ol>
-<p>Split all given regions along the grid lines in exactly two sub-regions. Two sub-regions of the same size must not be orthogonally adjacent.</p>
-<p><img src="/images/cutblocks_e.png" alt="Cut Blocks 例题，作者：稲葉直貴"><br><img src="/images/cutblocks_a.png" alt="Cut Blocks 例题解答"></p>
-<h2 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h2><blockquote>
-<ul>
-<li><a href="http://inabapuzzle.com/honkaku/cut.html" rel="external nofollow noopener noreferrer" target="_blank">稲葉のパズル研究室</a></li>
-<li><a href="https://www.janko.at/Raetsel/Naoki/CutBlocks.htm" rel="external nofollow noopener noreferrer" target="_blank">Janko.at</a></li>
-</ul>
-</blockquote>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;Cut Blocks（板块分割, 日本語: カットブロック）是由日本谜题作家稻葉直貴于2001年发表的谜题。&lt;/p&gt;
-&lt;h2 id=&quot;规则&quot;&gt;&lt;a href=&quot;#规则&quot; class=&quot;headerlink&quot; title=&quot;规则&quot;&gt;&lt;/a&gt;规则&lt;/h2&gt;&lt;p&gt;&lt;img src
-    
-    </summary>
-    
-      <category term="Puzzle" scheme="http://wiki.sudokufans.org.cn/categories/Puzzle/"/>
-    
-      <category term="划区类谜题" scheme="http://wiki.sudokufans.org.cn/categories/Puzzle/%E5%88%92%E5%8C%BA%E7%B1%BB%E8%B0%9C%E9%A2%98/"/>
     
     
       <category term="Japanese Puzzles" scheme="http://wiki.sudokufans.org.cn/tags/Japanese-Puzzles/"/>
