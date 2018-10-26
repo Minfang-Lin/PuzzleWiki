@@ -58,48 +58,6 @@
   
   <entry>
     <title>Number Ring 数字回路</title>
-    <link href="http://wiki.sudokufans.org.cn/Number%20Ring/"/>
-    <id>http://wiki.sudokufans.org.cn/Number Ring/</id>
-    <published>2018-10-26T08:32:00.000Z</published>
-    <updated>2018-10-26T08:42:17.171Z</updated>
-    
-    <content type="html"><![CDATA[<p>Number Ring（数字回路, 日本語:  ナンバーリング）是由日本谜题作家稻葉直貴于2001年发表的谜题。</p>
-<h2 id="规则"><a href="#规则" class="headerlink" title="规则"></a>规则</h2><p><img src="/images/numberring.png" alt="Number Ring 小型例题，作者：稲葉直貴"></p>
-<p>在盘面中选择一些空格填入数字1、2、3，使得填数字的格子纵横相连形成一条回路。回路不能碰到自己（不包括对角线方向）。<br>相同数字所形成的数块只能横向或者纵向放置。相同数字的数块不能相邻。</p>
-<ol>
-<li>パズル面に１２３の数字を入れて、縦横につながっている一つの環を作る。このとき、ループの部分どうしが辺で接してはならない。（点で接するのはＯＫ）</li>
-<li>数字はその数だけ縦横一直線に同じ数が並んだ固まりにしなければならない。</li>
-<li>同じ数字の固まりどうしは辺で接してはならない。</li>
-</ol>
-<p><img src="/images/numberring_e.png" alt="Number Ring 例题，作者：稲葉直貴"></p>
-<p><img src="/images/numberring_a.png" alt="Number Ring 例题解答"></p>
-<h2 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h2><blockquote>
-<ul>
-<li><a href="http://inabapuzzle.com/honkaku/ring.html" rel="external nofollow noopener noreferrer" target="_blank">稲葉のパズル研究室</a></li>
-</ul>
-</blockquote>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;Number Ring（数字回路, 日本語:  ナンバーリング）是由日本谜题作家稻葉直貴于2001年发表的谜题。&lt;/p&gt;
-&lt;h2 id=&quot;规则&quot;&gt;&lt;a href=&quot;#规则&quot; class=&quot;headerlink&quot; title=&quot;规则&quot;&gt;&lt;/a&gt;规则&lt;/h2&gt;&lt;p&gt;&lt;img s
-    
-    </summary>
-    
-      <category term="Puzzle" scheme="http://wiki.sudokufans.org.cn/categories/Puzzle/"/>
-    
-      <category term="回路类谜题" scheme="http://wiki.sudokufans.org.cn/categories/Puzzle/%E5%9B%9E%E8%B7%AF%E7%B1%BB%E8%B0%9C%E9%A2%98/"/>
-    
-    
-      <category term="Japanese Puzzles" scheme="http://wiki.sudokufans.org.cn/tags/Japanese-Puzzles/"/>
-    
-      <category term="稲葉直貴" scheme="http://wiki.sudokufans.org.cn/tags/%E7%A8%B2%E8%91%89%E7%9B%B4%E8%B2%B4/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Number Ring 数字回路</title>
     <link href="http://wiki.sudokufans.org.cn/NumberRing/"/>
     <id>http://wiki.sudokufans.org.cn/NumberRing/</id>
     <published>2018-10-26T08:32:00.000Z</published>
@@ -512,46 +470,6 @@
   </entry>
   
   <entry>
-    <title>Two-tone Division 双色分割</title>
-    <link href="http://wiki.sudokufans.org.cn/Two-toneDivision/"/>
-    <id>http://wiki.sudokufans.org.cn/Two-toneDivision/</id>
-    <published>2018-08-21T11:22:00.000Z</published>
-    <updated>2018-08-21T11:54:09.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>Two-tone Division（双色分割, 日本語:  ツートン分割）是由日本谜题作家稻葉直貴于2001年发表的谜题。</p>
-<h2 id="规则"><a href="#规则" class="headerlink" title="规则"></a>规则</h2><p><img src="/images/twotonedivision.png" alt="Two-tone Division 小型例题，作者：稲葉直貴"></p>
-<p>沿虚线将盘面划分成一些四格拼版，盘面上每一格都属于某一个四格拼版。每个拼版内包含白格和黑格，且每个拼版内的白格或黑格是连续的。</p>
-<ol>
-<li>パズル面を壁で仕切り、四マスのブロックにする。このときブロック内に余計な壁があってはならない。 </li>
-<li>ブロック内には必ず白と黒の二色が入るようにし、白い部分と黒い部分はそれぞれ内部で一つにつながっていなければならない。</li>
-</ol>
-<p><img src="/images/twotonedivision_e.png" alt="Two-tone Division 例题，作者：稲葉直貴"><br><img src="/images/twotonedivision_a.png" alt="Two-tone Division 例题解答"></p>
-<h2 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h2><blockquote>
-<ul>
-<li><a href="http://inabapuzzle.com/honkaku/two.html" rel="external nofollow noopener noreferrer" target="_blank">稲葉のパズル研究室</a></li>
-</ul>
-</blockquote>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;Two-tone Division（双色分割, 日本語:  ツートン分割）是由日本谜题作家稻葉直貴于2001年发表的谜题。&lt;/p&gt;
-&lt;h2 id=&quot;规则&quot;&gt;&lt;a href=&quot;#规则&quot; class=&quot;headerlink&quot; title=&quot;规则&quot;&gt;&lt;/a&gt;规则&lt;/h2&gt;&lt;p&gt;&lt;
-    
-    </summary>
-    
-      <category term="Puzzle" scheme="http://wiki.sudokufans.org.cn/categories/Puzzle/"/>
-    
-      <category term="划区类谜题" scheme="http://wiki.sudokufans.org.cn/categories/Puzzle/%E5%88%92%E5%8C%BA%E7%B1%BB%E8%B0%9C%E9%A2%98/"/>
-    
-    
-      <category term="Japanese Puzzles" scheme="http://wiki.sudokufans.org.cn/tags/Japanese-Puzzles/"/>
-    
-      <category term="稲葉直貴" scheme="http://wiki.sudokufans.org.cn/tags/%E7%A8%B2%E8%91%89%E7%9B%B4%E8%B2%B4/"/>
-    
-  </entry>
-  
-  <entry>
     <title>In and Out 出入次数</title>
     <link href="http://wiki.sudokufans.org.cn/InAndOut/"/>
     <id>http://wiki.sudokufans.org.cn/InAndOut/</id>
@@ -592,37 +510,37 @@
   </entry>
   
   <entry>
-    <title>Edge Pattern 同字同形</title>
-    <link href="http://wiki.sudokufans.org.cn/EdgePattern/"/>
-    <id>http://wiki.sudokufans.org.cn/EdgePattern/</id>
-    <published>2018-08-20T13:38:00.000Z</published>
-    <updated>2018-08-20T13:48:42.607Z</updated>
+    <title>Two-tone Division 双色分割</title>
+    <link href="http://wiki.sudokufans.org.cn/Two-toneDivision/"/>
+    <id>http://wiki.sudokufans.org.cn/Two-toneDivision/</id>
+    <published>2018-08-21T11:22:00.000Z</published>
+    <updated>2018-08-21T11:54:09.000Z</updated>
     
-    <content type="html"><![CDATA[<p>Edge Pattern（同字同形, 日本語:  エッジパターン）是由日本谜题作家稻葉直貴于2001年发表的谜题。</p>
-<h2 id="规则"><a href="#规则" class="headerlink" title="规则"></a>规则</h2><p><img src="/images/edgepattern.png" alt="Edge Pattern 小型例题，作者：稲葉直貴"></p>
-<p>画一条回路，沿着虚线经过所有的顶点。相同字母四边的线画法相同，不同字母的不同。</p>
+    <content type="html"><![CDATA[<p>Two-tone Division（双色分割, 日本語:  ツートン分割）是由日本谜题作家稻葉直貴于2001年发表的谜题。</p>
+<h2 id="规则"><a href="#规则" class="headerlink" title="规则"></a>规则</h2><p><img src="/images/twotonedivision.png" alt="Two-tone Division 小型例题，作者：稲葉直貴"></p>
+<p>沿虚线将盘面划分成一些四格拼版，盘面上每一格都属于某一个四格拼版。每个拼版内包含白格和黑格，且每个拼版内的白格或黑格是连续的。</p>
 <ol>
-<li>全ての頂点を太線でつないで一つのループを作る。 </li>
-<li>同じアルファベットは、その周囲四辺にひかれる線のパターンが一致しており、 違うアルファベットは異なっている。</li>
+<li>パズル面を壁で仕切り、四マスのブロックにする。このときブロック内に余計な壁があってはならない。 </li>
+<li>ブロック内には必ず白と黒の二色が入るようにし、白い部分と黒い部分はそれぞれ内部で一つにつながっていなければならない。</li>
 </ol>
-<p><img src="/images/edgepattern_e.png" alt="Edge Pattern 例题，作者：稲葉直貴"><br><img src="/images/edgepattern_a.png" alt="Edge Pattern 例题解答"></p>
+<p><img src="/images/twotonedivision_e.png" alt="Two-tone Division 例题，作者：稲葉直貴"><br><img src="/images/twotonedivision_a.png" alt="Two-tone Division 例题解答"></p>
 <h2 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h2><blockquote>
 <ul>
-<li><a href="http://inabapuzzle.com/honkaku/edge.html" rel="external nofollow noopener noreferrer" target="_blank">稲葉のパズル研究室</a></li>
+<li><a href="http://inabapuzzle.com/honkaku/two.html" rel="external nofollow noopener noreferrer" target="_blank">稲葉のパズル研究室</a></li>
 </ul>
 </blockquote>
 ]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;Edge Pattern（同字同形, 日本語:  エッジパターン）是由日本谜题作家稻葉直貴于2001年发表的谜题。&lt;/p&gt;
-&lt;h2 id=&quot;规则&quot;&gt;&lt;a href=&quot;#规则&quot; class=&quot;headerlink&quot; title=&quot;规则&quot;&gt;&lt;/a&gt;规则&lt;/h2&gt;&lt;p&gt;&lt;img 
+      &lt;p&gt;Two-tone Division（双色分割, 日本語:  ツートン分割）是由日本谜题作家稻葉直貴于2001年发表的谜题。&lt;/p&gt;
+&lt;h2 id=&quot;规则&quot;&gt;&lt;a href=&quot;#规则&quot; class=&quot;headerlink&quot; title=&quot;规则&quot;&gt;&lt;/a&gt;规则&lt;/h2&gt;&lt;p&gt;&lt;
     
     </summary>
     
       <category term="Puzzle" scheme="http://wiki.sudokufans.org.cn/categories/Puzzle/"/>
     
-      <category term="回路类谜题" scheme="http://wiki.sudokufans.org.cn/categories/Puzzle/%E5%9B%9E%E8%B7%AF%E7%B1%BB%E8%B0%9C%E9%A2%98/"/>
+      <category term="划区类谜题" scheme="http://wiki.sudokufans.org.cn/categories/Puzzle/%E5%88%92%E5%8C%BA%E7%B1%BB%E8%B0%9C%E9%A2%98/"/>
     
     
       <category term="Japanese Puzzles" scheme="http://wiki.sudokufans.org.cn/tags/Japanese-Puzzles/"/>
@@ -657,6 +575,46 @@
     
       &lt;p&gt;Separation（同字分离, 日本語:  セパレーション）是由日本谜题作家稻葉直貴于2001年发表的谜题。&lt;/p&gt;
 &lt;h2 id=&quot;规则&quot;&gt;&lt;a href=&quot;#规则&quot; class=&quot;headerlink&quot; title=&quot;规则&quot;&gt;&lt;/a&gt;规则&lt;/h2&gt;&lt;p&gt;&lt;img sr
+    
+    </summary>
+    
+      <category term="Puzzle" scheme="http://wiki.sudokufans.org.cn/categories/Puzzle/"/>
+    
+      <category term="回路类谜题" scheme="http://wiki.sudokufans.org.cn/categories/Puzzle/%E5%9B%9E%E8%B7%AF%E7%B1%BB%E8%B0%9C%E9%A2%98/"/>
+    
+    
+      <category term="Japanese Puzzles" scheme="http://wiki.sudokufans.org.cn/tags/Japanese-Puzzles/"/>
+    
+      <category term="稲葉直貴" scheme="http://wiki.sudokufans.org.cn/tags/%E7%A8%B2%E8%91%89%E7%9B%B4%E8%B2%B4/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Edge Pattern 同字同形</title>
+    <link href="http://wiki.sudokufans.org.cn/EdgePattern/"/>
+    <id>http://wiki.sudokufans.org.cn/EdgePattern/</id>
+    <published>2018-08-20T13:38:00.000Z</published>
+    <updated>2018-08-20T13:48:42.607Z</updated>
+    
+    <content type="html"><![CDATA[<p>Edge Pattern（同字同形, 日本語:  エッジパターン）是由日本谜题作家稻葉直貴于2001年发表的谜题。</p>
+<h2 id="规则"><a href="#规则" class="headerlink" title="规则"></a>规则</h2><p><img src="/images/edgepattern.png" alt="Edge Pattern 小型例题，作者：稲葉直貴"></p>
+<p>画一条回路，沿着虚线经过所有的顶点。相同字母四边的线画法相同，不同字母的不同。</p>
+<ol>
+<li>全ての頂点を太線でつないで一つのループを作る。 </li>
+<li>同じアルファベットは、その周囲四辺にひかれる線のパターンが一致しており、 違うアルファベットは異なっている。</li>
+</ol>
+<p><img src="/images/edgepattern_e.png" alt="Edge Pattern 例题，作者：稲葉直貴"><br><img src="/images/edgepattern_a.png" alt="Edge Pattern 例题解答"></p>
+<h2 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h2><blockquote>
+<ul>
+<li><a href="http://inabapuzzle.com/honkaku/edge.html" rel="external nofollow noopener noreferrer" target="_blank">稲葉のパズル研究室</a></li>
+</ul>
+</blockquote>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Edge Pattern（同字同形, 日本語:  エッジパターン）是由日本谜题作家稻葉直貴于2001年发表的谜题。&lt;/p&gt;
+&lt;h2 id=&quot;规则&quot;&gt;&lt;a href=&quot;#规则&quot; class=&quot;headerlink&quot; title=&quot;规则&quot;&gt;&lt;/a&gt;规则&lt;/h2&gt;&lt;p&gt;&lt;img 
     
     </summary>
     
@@ -823,6 +781,43 @@
       <category term="Puzzle" scheme="http://wiki.sudokufans.org.cn/categories/Puzzle/"/>
     
       <category term="区域与关系类谜题" scheme="http://wiki.sudokufans.org.cn/categories/Puzzle/%E5%8C%BA%E5%9F%9F%E4%B8%8E%E5%85%B3%E7%B3%BB%E7%B1%BB%E8%B0%9C%E9%A2%98/"/>
+    
+    
+      <category term="Japanese Puzzles" scheme="http://wiki.sudokufans.org.cn/tags/Japanese-Puzzles/"/>
+    
+      <category term="稲葉直貴" scheme="http://wiki.sudokufans.org.cn/tags/%E7%A8%B2%E8%91%89%E7%9B%B4%E8%B2%B4/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Crescendo 递增数链</title>
+    <link href="http://wiki.sudokufans.org.cn/Crescendo/"/>
+    <id>http://wiki.sudokufans.org.cn/Crescendo/</id>
+    <published>2018-08-18T07:47:00.000Z</published>
+    <updated>2018-08-18T08:30:25.871Z</updated>
+    
+    <content type="html"><![CDATA[<p>Crescendo（递增数链, 日本語:  クレシェンド）是由日本谜题作家稻葉直貴于2001年发表的谜题。</p>
+<h2 id="规则"><a href="#规则" class="headerlink" title="规则"></a>规则</h2><p><img src="/images/crescendo.png" alt="Crescendo 小型例题，作者：稲葉直貴"></p>
+<p>将盘面中的数字四个一组沿虚线连接起来，每条数链上的数字沿着数链依次递增。</p>
+<p>端から端まで、順に数字が大きくなるように、パズル面の全ての数字を四つ組にして太線でつなぐ。</p>
+<p><img src="/images/crescendo_e.png" alt="Crescendo 例题，作者：稲葉直貴"><br><img src="/images/crescendo_a.png" alt="Crescendo 例题解答"></p>
+<h2 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h2><blockquote>
+<ul>
+<li><a href="http://inabapuzzle.com/honkaku/cre.html" rel="external nofollow noopener noreferrer" target="_blank">稲葉のパズル研究室</a></li>
+</ul>
+</blockquote>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Crescendo（递增数链, 日本語:  クレシェンド）是由日本谜题作家稻葉直貴于2001年发表的谜题。&lt;/p&gt;
+&lt;h2 id=&quot;规则&quot;&gt;&lt;a href=&quot;#规则&quot; class=&quot;headerlink&quot; title=&quot;规则&quot;&gt;&lt;/a&gt;规则&lt;/h2&gt;&lt;p&gt;&lt;img src=
+    
+    </summary>
+    
+      <category term="Puzzle" scheme="http://wiki.sudokufans.org.cn/categories/Puzzle/"/>
+    
+      <category term="连线类谜题" scheme="http://wiki.sudokufans.org.cn/categories/Puzzle/%E8%BF%9E%E7%BA%BF%E7%B1%BB%E8%B0%9C%E9%A2%98/"/>
     
     
       <category term="Japanese Puzzles" scheme="http://wiki.sudokufans.org.cn/tags/Japanese-Puzzles/"/>
