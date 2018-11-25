@@ -2,6 +2,41 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://wiki.sudokufans.org.cn/Pipeline/</loc>
+    
+    <lastmod>2018-11-25T13:06:13.776Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://wiki.sudokufans.org.cn/DoorLoop/</loc>
+    
+    <lastmod>2018-11-25T12:52:17.193Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://wiki.sudokufans.org.cn/Relation/</loc>
+    
+    <lastmod>2018-11-25T12:45:44.692Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://wiki.sudokufans.org.cn/PairBlock/</loc>
+    
+    <lastmod>2018-11-25T12:36:19.576Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://wiki.sudokufans.org.cn/Queens/</loc>
+    
+    <lastmod>2018-11-25T12:24:07.174Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://wiki.sudokufans.org.cn/NearNumber/</loc>
     
     <lastmod>2018-10-26T08:56:10.318Z</lastmod>
@@ -618,14 +653,14 @@
   </url>
   
   <url>
-    <loc>http://wiki.sudokufans.org.cn/Masyu/</loc>
+    <loc>http://wiki.sudokufans.org.cn/about/index.html</loc>
     
     <lastmod>2017-04-16T11:16:28.001Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://wiki.sudokufans.org.cn/about/index.html</loc>
+    <loc>http://wiki.sudokufans.org.cn/Masyu/</loc>
     
     <lastmod>2017-04-16T11:16:28.001Z</lastmod>
     
