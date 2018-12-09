@@ -2,6 +2,34 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://wiki.sudokufans.org.cn/LightUp/</loc>
+    
+    <lastmod>2018-12-09T13:00:36.209Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://wiki.sudokufans.org.cn/PolyAngle/</loc>
+    
+    <lastmod>2018-12-09T12:49:21.987Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://wiki.sudokufans.org.cn/ABCOrder/</loc>
+    
+    <lastmod>2018-12-09T12:43:25.721Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://wiki.sudokufans.org.cn/RectSize/</loc>
+    
+    <lastmod>2018-12-09T12:35:53.165Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://wiki.sudokufans.org.cn/Pipeline/</loc>
     
     <lastmod>2018-11-25T13:06:13.776Z</lastmod>
@@ -653,14 +681,14 @@
   </url>
   
   <url>
-    <loc>http://wiki.sudokufans.org.cn/about/index.html</loc>
+    <loc>http://wiki.sudokufans.org.cn/Masyu/</loc>
     
     <lastmod>2017-04-16T11:16:28.001Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://wiki.sudokufans.org.cn/Masyu/</loc>
+    <loc>http://wiki.sudokufans.org.cn/about/index.html</loc>
     
     <lastmod>2017-04-16T11:16:28.001Z</lastmod>
     

@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://wiki.sudokufans.org.cn/"/>
-  <updated>2018-11-25T12:52:17.193Z</updated>
+  <updated>2018-12-09T13:00:36.209Z</updated>
   <id>http://wiki.sudokufans.org.cn/</id>
   
   <author>
@@ -16,38 +16,162 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Door Loop 房间回路</title>
-    <link href="http://wiki.sudokufans.org.cn/DoorLoop/"/>
-    <id>http://wiki.sudokufans.org.cn/DoorLoop/</id>
-    <published>2018-11-25T12:52:00.000Z</published>
-    <updated>2018-11-25T12:52:17.193Z</updated>
+    <title>Light Up 点灯</title>
+    <link href="http://wiki.sudokufans.org.cn/LightUp/"/>
+    <id>http://wiki.sudokufans.org.cn/LightUp/</id>
+    <published>2018-12-09T12:49:00.000Z</published>
+    <updated>2018-12-09T13:00:36.209Z</updated>
     
-    <content type="html"><![CDATA[<p>Door Loop（房间回路, 日本語:  ドア·ループ）是由日本谜题作家稻葉直貴于2001年发表的谜题。</p>
-<h2 id="规则"><a href="#规则" class="headerlink" title="规则"></a>规则</h2><p><img src="/images/doorloop.png" alt="Door Loop 小型例题，作者：稲葉直貴"></p>
-<p>在部分墙壁放置一扇门，使得可以从一个房间一次经过所有房间最后回到起始处。相邻的墙壁不能都放置门。</p>
+    <content type="html"><![CDATA[<p>Light Up（点灯, 日本語:  ライトアップ）是由日本谜题作家稻葉直貴于2002年发表的谜题。</p>
+<h2 id="规则"><a href="#规则" class="headerlink" title="规则"></a>规则</h2><p><img src="/images/lightup.png" alt="Light Up 小型例题，作者：稲葉直貴"></p>
+<p>黑格上的提示数表示共有多少个方向的光源照到这一格（没有数字指光源数量不明）。光源可以照向上、下、左、右四个方向，直到遇到黑格。光源两两之间不能互相照到。</p>
 <ol>
-<li>壁にドアを取り付けて、全ての部屋を一度ずつ巡るループを作る。</li>
-<li>ドアの付いた壁同士は接しない。</li>
+<li>パズル面に置かれているブロックが何方向から照らされているかを表す数字（数字の書かれていないものは不明）をヒントに光源を配置する。</li>
+<li>光源から出た光は上下左右方向に直進し、ブロックでさえぎられる。</li>
+<li>光源は他の光源に照らされることはない。</li>
 </ol>
-<p><img src="/images/doorloop_e.png" alt="Door Loop 例题，作者：稲葉直貴"></p>
-<p><img src="/images/doorloop_a.png" alt="Door Loop 例题解答"></p>
+<p><img src="/images/lightup_e.png" alt="Light Up 例题，作者：稲葉直貴"></p>
+<p><img src="/images/lightup_a.png" alt="Light Up 例题解答"></p>
 <h2 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h2><blockquote>
 <ul>
-<li><a href="http://inabapuzzle.com/honkaku/door.html" rel="external nofollow noopener noreferrer" target="_blank">稲葉のパズル研究室</a></li>
+<li><a href="http://inabapuzzle.com/honkaku/light.html" rel="external nofollow noopener noreferrer" target="_blank">稲葉のパズル研究室</a></li>
 </ul>
 </blockquote>
 ]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;Door Loop（房间回路, 日本語:  ドア·ループ）是由日本谜题作家稻葉直貴于2001年发表的谜题。&lt;/p&gt;
+      &lt;p&gt;Light Up（点灯, 日本語:  ライトアップ）是由日本谜题作家稻葉直貴于2002年发表的谜题。&lt;/p&gt;
+&lt;h2 id=&quot;规则&quot;&gt;&lt;a href=&quot;#规则&quot; class=&quot;headerlink&quot; title=&quot;规则&quot;&gt;&lt;/a&gt;规则&lt;/h2&gt;&lt;p&gt;&lt;img src=&quot;/i
+    
+    </summary>
+    
+      <category term="Puzzle" scheme="http://wiki.sudokufans.org.cn/categories/Puzzle/"/>
+    
+      <category term="放置类谜题" scheme="http://wiki.sudokufans.org.cn/categories/Puzzle/%E6%94%BE%E7%BD%AE%E7%B1%BB%E8%B0%9C%E9%A2%98/"/>
+    
+    
+      <category term="Japanese Puzzles" scheme="http://wiki.sudokufans.org.cn/tags/Japanese-Puzzles/"/>
+    
+      <category term="稲葉直貴" scheme="http://wiki.sudokufans.org.cn/tags/%E7%A8%B2%E8%91%89%E7%9B%B4%E8%B2%B4/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Poly Angle 多边形</title>
+    <link href="http://wiki.sudokufans.org.cn/PolyAngle/"/>
+    <id>http://wiki.sudokufans.org.cn/PolyAngle/</id>
+    <published>2018-12-09T12:49:00.000Z</published>
+    <updated>2018-12-09T12:49:21.987Z</updated>
+    
+    <content type="html"><![CDATA[<p>Poly Angle（多边形, 日本語:  ポリアングル）是由日本谜题作家稻葉直貴于2002年发表的谜题。</p>
+<h2 id="规则"><a href="#规则" class="headerlink" title="规则"></a>规则</h2><p><img src="/images/polyangle.png" alt="Poly Angle 小型例题，作者：稲葉直貴"></p>
+<p>将盘面分割成数个凸多边形（指无180°以上的内角）。每个多边形中恰好有一个提示数。提示数表示这个多边形有几条边。</p>
+<ol>
+<li>パズル面を凸（１８０度以上の角を含まない）多角形に分割する。</li>
+<li>多角形の中には一つずつ数字が入るようにする。</li>
+</ol>
+<p><img src="/images/polyangle_e.png" alt="Poly Angle 例题，作者：稲葉直貴"></p>
+<p><img src="/images/polyangle_a.png" alt="Poly Angle 例题解答"></p>
+<h2 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h2><blockquote>
+<ul>
+<li><a href="http://inabapuzzle.com/honkaku/poly.html" rel="external nofollow noopener noreferrer" target="_blank">稲葉のパズル研究室</a></li>
+</ul>
+</blockquote>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Poly Angle（多边形, 日本語:  ポリアングル）是由日本谜题作家稻葉直貴于2002年发表的谜题。&lt;/p&gt;
 &lt;h2 id=&quot;规则&quot;&gt;&lt;a href=&quot;#规则&quot; class=&quot;headerlink&quot; title=&quot;规则&quot;&gt;&lt;/a&gt;规则&lt;/h2&gt;&lt;p&gt;&lt;img src=
     
     </summary>
     
       <category term="Puzzle" scheme="http://wiki.sudokufans.org.cn/categories/Puzzle/"/>
     
-      <category term="回路类谜题" scheme="http://wiki.sudokufans.org.cn/categories/Puzzle/%E5%9B%9E%E8%B7%AF%E7%B1%BB%E8%B0%9C%E9%A2%98/"/>
+      <category term="划区类谜题" scheme="http://wiki.sudokufans.org.cn/categories/Puzzle/%E5%88%92%E5%8C%BA%E7%B1%BB%E8%B0%9C%E9%A2%98/"/>
+    
+    
+      <category term="Japanese Puzzles" scheme="http://wiki.sudokufans.org.cn/tags/Japanese-Puzzles/"/>
+    
+      <category term="稲葉直貴" scheme="http://wiki.sudokufans.org.cn/tags/%E7%A8%B2%E8%91%89%E7%9B%B4%E8%B2%B4/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>ABC Order ABC的顺序</title>
+    <link href="http://wiki.sudokufans.org.cn/ABCOrder/"/>
+    <id>http://wiki.sudokufans.org.cn/ABCOrder/</id>
+    <published>2018-12-09T12:39:00.000Z</published>
+    <updated>2018-12-09T12:43:25.721Z</updated>
+    
+    <content type="html"><![CDATA[<p>ABC Order（ABC的顺序, 日本語:  ＡＢＣオーダー）是由日本谜题作家稻葉直貴于2002年发表的谜题。</p>
+<h2 id="规则"><a href="#规则" class="headerlink" title="规则"></a>规则</h2><p><img src="/images/abcorder.png" alt="ABC Order 小型例题，作者：稲葉直貴"></p>
+<p>将指定字母填入盘面中，使得每行、每列出现每种字母一次。每一条线上的一端到另一端按字母表顺序依次出现每种字母。</p>
+<ol>
+<li>縦横全ての列に指定された範囲のアルファベットを一つずつ入れる。</li>
+<li>線でつながっているところは、どちらかの端からＡＢＣ・・・の順に文字が入る。</li>
+</ol>
+<p><img src="/images/abcorder_e.png" alt="ABC Order 例题，作者：稲葉直貴"></p>
+<p><img src="/images/abcorder_a.png" alt="ABC Order 例题解答"></p>
+<h2 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h2><blockquote>
+<ul>
+<li><a href="http://inabapuzzle.com/honkaku/order.html" rel="external nofollow noopener noreferrer" target="_blank">稲葉のパズル研究室</a></li>
+</ul>
+</blockquote>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;ABC Order（ABC的顺序, 日本語:  ＡＢＣオーダー）是由日本谜题作家稻葉直貴于2002年发表的谜题。&lt;/p&gt;
+&lt;h2 id=&quot;规则&quot;&gt;&lt;a href=&quot;#规则&quot; class=&quot;headerlink&quot; title=&quot;规则&quot;&gt;&lt;/a&gt;规则&lt;/h2&gt;&lt;p&gt;&lt;img s
+    
+    </summary>
+    
+      <category term="Puzzle" scheme="http://wiki.sudokufans.org.cn/categories/Puzzle/"/>
+    
+      <category term="数字类谜题" scheme="http://wiki.sudokufans.org.cn/categories/Puzzle/%E6%95%B0%E5%AD%97%E7%B1%BB%E8%B0%9C%E9%A2%98/"/>
+    
+    
+      <category term="Japanese Puzzles" scheme="http://wiki.sudokufans.org.cn/tags/Japanese-Puzzles/"/>
+    
+      <category term="稲葉直貴" scheme="http://wiki.sudokufans.org.cn/tags/%E7%A8%B2%E8%91%89%E7%9B%B4%E8%B2%B4/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Rect Size 矩形分割</title>
+    <link href="http://wiki.sudokufans.org.cn/RectSize/"/>
+    <id>http://wiki.sudokufans.org.cn/RectSize/</id>
+    <published>2018-12-09T12:31:00.000Z</published>
+    <updated>2018-12-09T12:35:53.165Z</updated>
+    
+    <content type="html"><![CDATA[<p>Rect Size（矩形分割, 日本語:  レクトサイズ）是由日本谜题作家稻葉直貴于2002年发表的谜题。</p>
+<h2 id="规则"><a href="#规则" class="headerlink" title="规则"></a>规则</h2><p><img src="/images/rectsize.png" alt="Rect Size 小型例题，作者：稲葉直貴"></p>
+<p>将盘面分割成数个矩形，每个矩形中有一个提示数，提示数表示矩形的长加宽之和。</p>
+<ol>
+<li>どのブロック内にも数字が一つずつ入るようにパズル面を長方形に分割する。</li>
+<li>数字はその数字を含むブロックの縦と横の長さの和を表す。</li>
+</ol>
+<p><img src="/images/rectsize_e.png" alt="Rect Size 例题，作者：稲葉直貴"></p>
+<p><img src="/images/rectsize_a.png" alt="Rect Size 例题解答"></p>
+<h2 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h2><blockquote>
+<ul>
+<li><a href="http://inabapuzzle.com/honkaku/rect.html" rel="external nofollow noopener noreferrer" target="_blank">稲葉のパズル研究室</a></li>
+</ul>
+</blockquote>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Rect Size（矩形分割, 日本語:  レクトサイズ）是由日本谜题作家稻葉直貴于2002年发表的谜题。&lt;/p&gt;
+&lt;h2 id=&quot;规则&quot;&gt;&lt;a href=&quot;#规则&quot; class=&quot;headerlink&quot; title=&quot;规则&quot;&gt;&lt;/a&gt;规则&lt;/h2&gt;&lt;p&gt;&lt;img src=
+    
+    </summary>
+    
+      <category term="Puzzle" scheme="http://wiki.sudokufans.org.cn/categories/Puzzle/"/>
+    
+      <category term="划区类谜题" scheme="http://wiki.sudokufans.org.cn/categories/Puzzle/%E5%88%92%E5%8C%BA%E7%B1%BB%E8%B0%9C%E9%A2%98/"/>
     
     
       <category term="Japanese Puzzles" scheme="http://wiki.sudokufans.org.cn/tags/Japanese-Puzzles/"/>
@@ -84,6 +208,47 @@
     
       &lt;p&gt;Pipeline（双层管路, 日本語:  パイプライン）是由日本谜题作家稻葉直貴于2002年发表的谜题。&lt;/p&gt;
 &lt;h2 id=&quot;规则&quot;&gt;&lt;a href=&quot;#规则&quot; class=&quot;headerlink&quot; title=&quot;规则&quot;&gt;&lt;/a&gt;规则&lt;/h2&gt;&lt;p&gt;&lt;img src=&quot;
+    
+    </summary>
+    
+      <category term="Puzzle" scheme="http://wiki.sudokufans.org.cn/categories/Puzzle/"/>
+    
+      <category term="回路类谜题" scheme="http://wiki.sudokufans.org.cn/categories/Puzzle/%E5%9B%9E%E8%B7%AF%E7%B1%BB%E8%B0%9C%E9%A2%98/"/>
+    
+    
+      <category term="Japanese Puzzles" scheme="http://wiki.sudokufans.org.cn/tags/Japanese-Puzzles/"/>
+    
+      <category term="稲葉直貴" scheme="http://wiki.sudokufans.org.cn/tags/%E7%A8%B2%E8%91%89%E7%9B%B4%E8%B2%B4/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Door Loop 房间回路</title>
+    <link href="http://wiki.sudokufans.org.cn/DoorLoop/"/>
+    <id>http://wiki.sudokufans.org.cn/DoorLoop/</id>
+    <published>2018-11-25T12:52:00.000Z</published>
+    <updated>2018-11-25T12:52:17.193Z</updated>
+    
+    <content type="html"><![CDATA[<p>Door Loop（房间回路, 日本語:  ドア·ループ）是由日本谜题作家稻葉直貴于2001年发表的谜题。</p>
+<h2 id="规则"><a href="#规则" class="headerlink" title="规则"></a>规则</h2><p><img src="/images/doorloop.png" alt="Door Loop 小型例题，作者：稲葉直貴"></p>
+<p>在部分墙壁放置一扇门，使得可以从一个房间一次经过所有房间最后回到起始处。相邻的墙壁不能都放置门。</p>
+<ol>
+<li>壁にドアを取り付けて、全ての部屋を一度ずつ巡るループを作る。</li>
+<li>ドアの付いた壁同士は接しない。</li>
+</ol>
+<p><img src="/images/doorloop_e.png" alt="Door Loop 例题，作者：稲葉直貴"></p>
+<p><img src="/images/doorloop_a.png" alt="Door Loop 例题解答"></p>
+<h2 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h2><blockquote>
+<ul>
+<li><a href="http://inabapuzzle.com/honkaku/door.html" rel="external nofollow noopener noreferrer" target="_blank">稲葉のパズル研究室</a></li>
+</ul>
+</blockquote>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Door Loop（房间回路, 日本語:  ドア·ループ）是由日本谜题作家稻葉直貴于2001年发表的谜题。&lt;/p&gt;
+&lt;h2 id=&quot;规则&quot;&gt;&lt;a href=&quot;#规则&quot; class=&quot;headerlink&quot; title=&quot;规则&quot;&gt;&lt;/a&gt;规则&lt;/h2&gt;&lt;p&gt;&lt;img src=
     
     </summary>
     
@@ -668,166 +833,6 @@
       <category term="Puzzle" scheme="http://wiki.sudokufans.org.cn/categories/Puzzle/"/>
     
       <category term="放置类谜题" scheme="http://wiki.sudokufans.org.cn/categories/Puzzle/%E6%94%BE%E7%BD%AE%E7%B1%BB%E8%B0%9C%E9%A2%98/"/>
-    
-    
-      <category term="Japanese Puzzles" scheme="http://wiki.sudokufans.org.cn/tags/Japanese-Puzzles/"/>
-    
-      <category term="稲葉直貴" scheme="http://wiki.sudokufans.org.cn/tags/%E7%A8%B2%E8%91%89%E7%9B%B4%E8%B2%B4/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>In and Out 出入次数</title>
-    <link href="http://wiki.sudokufans.org.cn/InAndOut/"/>
-    <id>http://wiki.sudokufans.org.cn/InAndOut/</id>
-    <published>2018-08-21T11:22:00.000Z</published>
-    <updated>2018-08-21T12:41:23.629Z</updated>
-    
-    <content type="html"><![CDATA[<p>In and Out（出入次数, 日本語:  イン・アウト）是由日本谜题作家稻葉直貴于2001年发表的谜题。</p>
-<h2 id="规则"><a href="#规则" class="headerlink" title="规则"></a>规则</h2><p><img src="/images/inout.png" alt="In and Out 小型例题，作者：稲葉直貴"></p>
-<p>从S到G画一条线，线经过所有格子。数字表示线经过这个粗线区域的次数（进出该区域算经过一次）。</p>
-<ol>
-<li>S（スタート）からG（ゴール）まで全てのマスを一度ずつ通る線を引く。 </li>
-<li>ブロック内の数字は、線がそのブロックを”何回”通過したかを表す。（入ってから出るまでを一回とする。）</li>
-</ol>
-<p><img src="/images/inout_e.png" alt="In and Out 例题，作者：稲葉直貴"><br><img src="/images/inout_a.png" alt="In and Out 例题解答"></p>
-<h2 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h2><blockquote>
-<ul>
-<li><a href="http://inabapuzzle.com/honkaku/inout.html" rel="external nofollow noopener noreferrer" target="_blank">稲葉のパズル研究室</a></li>
-</ul>
-</blockquote>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;In and Out（出入次数, 日本語:  イン・アウト）是由日本谜题作家稻葉直貴于2001年发表的谜题。&lt;/p&gt;
-&lt;h2 id=&quot;规则&quot;&gt;&lt;a href=&quot;#规则&quot; class=&quot;headerlink&quot; title=&quot;规则&quot;&gt;&lt;/a&gt;规则&lt;/h2&gt;&lt;p&gt;&lt;img src
-    
-    </summary>
-    
-      <category term="Puzzle" scheme="http://wiki.sudokufans.org.cn/categories/Puzzle/"/>
-    
-      <category term="连线类谜题" scheme="http://wiki.sudokufans.org.cn/categories/Puzzle/%E8%BF%9E%E7%BA%BF%E7%B1%BB%E8%B0%9C%E9%A2%98/"/>
-    
-    
-      <category term="Japanese Puzzles" scheme="http://wiki.sudokufans.org.cn/tags/Japanese-Puzzles/"/>
-    
-      <category term="稲葉直貴" scheme="http://wiki.sudokufans.org.cn/tags/%E7%A8%B2%E8%91%89%E7%9B%B4%E8%B2%B4/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Two-tone Division 双色分割</title>
-    <link href="http://wiki.sudokufans.org.cn/Two-toneDivision/"/>
-    <id>http://wiki.sudokufans.org.cn/Two-toneDivision/</id>
-    <published>2018-08-21T11:22:00.000Z</published>
-    <updated>2018-08-21T11:54:09.000Z</updated>
-    
-    <content type="html"><![CDATA[<p>Two-tone Division（双色分割, 日本語:  ツートン分割）是由日本谜题作家稻葉直貴于2001年发表的谜题。</p>
-<h2 id="规则"><a href="#规则" class="headerlink" title="规则"></a>规则</h2><p><img src="/images/twotonedivision.png" alt="Two-tone Division 小型例题，作者：稲葉直貴"></p>
-<p>沿虚线将盘面划分成一些四格拼版，盘面上每一格都属于某一个四格拼版。每个拼版内包含白格和黑格，且每个拼版内的白格或黑格是连续的。</p>
-<ol>
-<li>パズル面を壁で仕切り、四マスのブロックにする。このときブロック内に余計な壁があってはならない。 </li>
-<li>ブロック内には必ず白と黒の二色が入るようにし、白い部分と黒い部分はそれぞれ内部で一つにつながっていなければならない。</li>
-</ol>
-<p><img src="/images/twotonedivision_e.png" alt="Two-tone Division 例题，作者：稲葉直貴"><br><img src="/images/twotonedivision_a.png" alt="Two-tone Division 例题解答"></p>
-<h2 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h2><blockquote>
-<ul>
-<li><a href="http://inabapuzzle.com/honkaku/two.html" rel="external nofollow noopener noreferrer" target="_blank">稲葉のパズル研究室</a></li>
-</ul>
-</blockquote>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;Two-tone Division（双色分割, 日本語:  ツートン分割）是由日本谜题作家稻葉直貴于2001年发表的谜题。&lt;/p&gt;
-&lt;h2 id=&quot;规则&quot;&gt;&lt;a href=&quot;#规则&quot; class=&quot;headerlink&quot; title=&quot;规则&quot;&gt;&lt;/a&gt;规则&lt;/h2&gt;&lt;p&gt;&lt;
-    
-    </summary>
-    
-      <category term="Puzzle" scheme="http://wiki.sudokufans.org.cn/categories/Puzzle/"/>
-    
-      <category term="划区类谜题" scheme="http://wiki.sudokufans.org.cn/categories/Puzzle/%E5%88%92%E5%8C%BA%E7%B1%BB%E8%B0%9C%E9%A2%98/"/>
-    
-    
-      <category term="Japanese Puzzles" scheme="http://wiki.sudokufans.org.cn/tags/Japanese-Puzzles/"/>
-    
-      <category term="稲葉直貴" scheme="http://wiki.sudokufans.org.cn/tags/%E7%A8%B2%E8%91%89%E7%9B%B4%E8%B2%B4/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Separation 同字分离</title>
-    <link href="http://wiki.sudokufans.org.cn/Separation/"/>
-    <id>http://wiki.sudokufans.org.cn/Separation/</id>
-    <published>2018-08-20T13:38:00.000Z</published>
-    <updated>2018-08-21T11:16:37.112Z</updated>
-    
-    <content type="html"><![CDATA[<p>Separation（同字分离, 日本語:  セパレーション）是由日本谜题作家稻葉直貴于2001年发表的谜题。</p>
-<h2 id="规则"><a href="#规则" class="headerlink" title="规则"></a>规则</h2><p><img src="/images/separation.png" alt="Separation 小型例题，作者：稲葉直貴"></p>
-<p>在部分格填上A、B、C，使得每行、每列出现A、B、C各一次，两个相同字母之间不可通过空格相连，必定有其它字母分隔。</p>
-<ol>
-<li>縦横全ての列にＡＢＣを一つずつ配置する。 </li>
-<li>ある文字からスタートして、壁と別種の文字を通らずに同種のアルファベットに行けるルートが存在してはいけない。</li>
-</ol>
-<p><img src="/images/separation_e.png" alt="Separation 例题，作者：稲葉直貴"><br><img src="/images/separation_a.png" alt="Separation 例题解答"></p>
-<h2 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h2><blockquote>
-<ul>
-<li><a href="http://inabapuzzle.com/honkaku/sepa.html" rel="external nofollow noopener noreferrer" target="_blank">稲葉のパズル研究室</a></li>
-</ul>
-</blockquote>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;Separation（同字分离, 日本語:  セパレーション）是由日本谜题作家稻葉直貴于2001年发表的谜题。&lt;/p&gt;
-&lt;h2 id=&quot;规则&quot;&gt;&lt;a href=&quot;#规则&quot; class=&quot;headerlink&quot; title=&quot;规则&quot;&gt;&lt;/a&gt;规则&lt;/h2&gt;&lt;p&gt;&lt;img sr
-    
-    </summary>
-    
-      <category term="Puzzle" scheme="http://wiki.sudokufans.org.cn/categories/Puzzle/"/>
-    
-      <category term="回路类谜题" scheme="http://wiki.sudokufans.org.cn/categories/Puzzle/%E5%9B%9E%E8%B7%AF%E7%B1%BB%E8%B0%9C%E9%A2%98/"/>
-    
-    
-      <category term="Japanese Puzzles" scheme="http://wiki.sudokufans.org.cn/tags/Japanese-Puzzles/"/>
-    
-      <category term="稲葉直貴" scheme="http://wiki.sudokufans.org.cn/tags/%E7%A8%B2%E8%91%89%E7%9B%B4%E8%B2%B4/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Edge Pattern 同字同形</title>
-    <link href="http://wiki.sudokufans.org.cn/EdgePattern/"/>
-    <id>http://wiki.sudokufans.org.cn/EdgePattern/</id>
-    <published>2018-08-20T13:38:00.000Z</published>
-    <updated>2018-08-20T13:48:42.607Z</updated>
-    
-    <content type="html"><![CDATA[<p>Edge Pattern（同字同形, 日本語:  エッジパターン）是由日本谜题作家稻葉直貴于2001年发表的谜题。</p>
-<h2 id="规则"><a href="#规则" class="headerlink" title="规则"></a>规则</h2><p><img src="/images/edgepattern.png" alt="Edge Pattern 小型例题，作者：稲葉直貴"></p>
-<p>画一条回路，沿着虚线经过所有的顶点。相同字母四边的线画法相同，不同字母的不同。</p>
-<ol>
-<li>全ての頂点を太線でつないで一つのループを作る。 </li>
-<li>同じアルファベットは、その周囲四辺にひかれる線のパターンが一致しており、 違うアルファベットは異なっている。</li>
-</ol>
-<p><img src="/images/edgepattern_e.png" alt="Edge Pattern 例题，作者：稲葉直貴"><br><img src="/images/edgepattern_a.png" alt="Edge Pattern 例题解答"></p>
-<h2 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h2><blockquote>
-<ul>
-<li><a href="http://inabapuzzle.com/honkaku/edge.html" rel="external nofollow noopener noreferrer" target="_blank">稲葉のパズル研究室</a></li>
-</ul>
-</blockquote>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;Edge Pattern（同字同形, 日本語:  エッジパターン）是由日本谜题作家稻葉直貴于2001年发表的谜题。&lt;/p&gt;
-&lt;h2 id=&quot;规则&quot;&gt;&lt;a href=&quot;#规则&quot; class=&quot;headerlink&quot; title=&quot;规则&quot;&gt;&lt;/a&gt;规则&lt;/h2&gt;&lt;p&gt;&lt;img 
-    
-    </summary>
-    
-      <category term="Puzzle" scheme="http://wiki.sudokufans.org.cn/categories/Puzzle/"/>
-    
-      <category term="回路类谜题" scheme="http://wiki.sudokufans.org.cn/categories/Puzzle/%E5%9B%9E%E8%B7%AF%E7%B1%BB%E8%B0%9C%E9%A2%98/"/>
     
     
       <category term="Japanese Puzzles" scheme="http://wiki.sudokufans.org.cn/tags/Japanese-Puzzles/"/>
